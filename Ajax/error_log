@@ -1,0 +1,466 @@
+[10-Oct-2023 17:48:39 America/Fortaleza] PHP Warning:  Undefined array key "GuardaDate" in /home2/turis832/public_html/Ajax/AjaxInsereCarrinho.php on line 9
+[10-Oct-2023 17:48:39 America/Fortaleza] PHP Warning:  Undefined array key "CheckboxChecked" in /home2/turis832/public_html/Ajax/AjaxInsereCarrinho.php on line 13
+[10-Oct-2023 17:48:39 America/Fortaleza] PHP Warning:  Undefined array key "first_name" in /home2/turis832/public_html/Ajax/AjaxInsereCarrinho.php on line 25
+[10-Oct-2023 17:48:39 America/Fortaleza] PHP Warning:  Undefined variable $conn in /home2/turis832/public_html/Ajax/AjaxInsereCarrinho.php on line 34
+[10-Oct-2023 17:48:39 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home2/turis832/public_html/Ajax/AjaxInsereCarrinho.php:34
+Stack trace:
+#0 {main}
+  thrown in /home2/turis832/public_html/Ajax/AjaxInsereCarrinho.php on line 34
+[10-Oct-2023 17:53:50 America/Fortaleza] PHP Warning:  Undefined array key "GuardaDate" in /home2/turis832/public_html/Ajax/AjaxInsereCarrinho.php on line 9
+[10-Oct-2023 17:53:50 America/Fortaleza] PHP Warning:  Undefined array key "CheckboxChecked" in /home2/turis832/public_html/Ajax/AjaxInsereCarrinho.php on line 13
+[10-Oct-2023 17:53:50 America/Fortaleza] PHP Warning:  Undefined array key "first_name" in /home2/turis832/public_html/Ajax/AjaxInsereCarrinho.php on line 25
+[10-Oct-2023 17:53:50 America/Fortaleza] PHP Warning:  Undefined variable $conn in /home2/turis832/public_html/Ajax/AjaxInsereCarrinho.php on line 34
+[10-Oct-2023 17:53:50 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home2/turis832/public_html/Ajax/AjaxInsereCarrinho.php:34
+Stack trace:
+#0 {main}
+  thrown in /home2/turis832/public_html/Ajax/AjaxInsereCarrinho.php on line 34
+[10-Oct-2023 17:56:25 America/Fortaleza] PHP Warning:  Undefined array key "GuardaDate" in /home2/turis832/public_html/Ajax/AjaxInsereCarrinho.php on line 9
+[10-Oct-2023 17:56:25 America/Fortaleza] PHP Warning:  Undefined array key "CheckboxChecked" in /home2/turis832/public_html/Ajax/AjaxInsereCarrinho.php on line 13
+[10-Oct-2023 17:56:25 America/Fortaleza] PHP Warning:  Undefined array key "first_name" in /home2/turis832/public_html/Ajax/AjaxInsereCarrinho.php on line 25
+[10-Oct-2023 17:56:25 America/Fortaleza] PHP Warning:  Undefined variable $conn in /home2/turis832/public_html/Ajax/AjaxInsereCarrinho.php on line 34
+[10-Oct-2023 17:56:25 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home2/turis832/public_html/Ajax/AjaxInsereCarrinho.php:34
+Stack trace:
+#0 {main}
+  thrown in /home2/turis832/public_html/Ajax/AjaxInsereCarrinho.php on line 34
+[10-Oct-2023 17:57:16 America/Fortaleza] PHP Warning:  Undefined array key "GuardaDate" in /home2/turis832/public_html/Ajax/AjaxInsereCarrinho.php on line 9
+[10-Oct-2023 17:57:16 America/Fortaleza] PHP Warning:  Undefined array key "CheckboxChecked" in /home2/turis832/public_html/Ajax/AjaxInsereCarrinho.php on line 13
+[10-Oct-2023 17:57:16 America/Fortaleza] PHP Warning:  Undefined array key "first_name" in /home2/turis832/public_html/Ajax/AjaxInsereCarrinho.php on line 25
+[10-Oct-2023 17:57:16 America/Fortaleza] PHP Warning:  Undefined variable $conn in /home2/turis832/public_html/Ajax/AjaxInsereCarrinho.php on line 34
+[10-Oct-2023 17:57:16 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home2/turis832/public_html/Ajax/AjaxInsereCarrinho.php:34
+Stack trace:
+#0 {main}
+  thrown in /home2/turis832/public_html/Ajax/AjaxInsereCarrinho.php on line 34
+[10-Oct-2023 18:02:01 America/Fortaleza] PHP Warning:  Undefined array key "CheckboxChecked" in /home2/turis832/public_html/Ajax/AjaxInsereCarrinho.php on line 13
+[10-Oct-2023 18:02:01 America/Fortaleza] PHP Warning:  Undefined array key "first_name" in /home2/turis832/public_html/Ajax/AjaxInsereCarrinho.php on line 25
+[10-Oct-2023 18:02:01 America/Fortaleza] PHP Warning:  Undefined variable $conn in /home2/turis832/public_html/Ajax/AjaxInsereCarrinho.php on line 34
+[10-Oct-2023 18:02:01 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home2/turis832/public_html/Ajax/AjaxInsereCarrinho.php:34
+Stack trace:
+#0 {main}
+  thrown in /home2/turis832/public_html/Ajax/AjaxInsereCarrinho.php on line 34
+[10-Oct-2023 18:22:27 America/Fortaleza] PHP Warning:  Undefined array key "first_name" in /home2/turis832/public_html/Ajax/AjaxInsereCarrinho.php on line 25
+[10-Oct-2023 18:22:27 America/Fortaleza] PHP Warning:  Undefined variable $conn in /home2/turis832/public_html/Ajax/AjaxInsereCarrinho.php on line 34
+[10-Oct-2023 18:22:27 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home2/turis832/public_html/Ajax/AjaxInsereCarrinho.php:34
+Stack trace:
+#0 {main}
+  thrown in /home2/turis832/public_html/Ajax/AjaxInsereCarrinho.php on line 34
+[10-Oct-2023 18:25:11 America/Fortaleza] PHP Warning:  Undefined variable $conn in /home2/turis832/public_html/Ajax/AjaxInsereCarrinho.php on line 35
+[10-Oct-2023 18:25:11 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home2/turis832/public_html/Ajax/AjaxInsereCarrinho.php:35
+Stack trace:
+#0 {main}
+  thrown in /home2/turis832/public_html/Ajax/AjaxInsereCarrinho.php on line 35
+[10-Oct-2023 18:25:33 America/Fortaleza] PHP Warning:  Undefined variable $conn in /home2/turis832/public_html/Ajax/AjaxInsereCarrinho.php on line 35
+[10-Oct-2023 18:25:33 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home2/turis832/public_html/Ajax/AjaxInsereCarrinho.php:35
+Stack trace:
+#0 {main}
+  thrown in /home2/turis832/public_html/Ajax/AjaxInsereCarrinho.php on line 35
+[10-Oct-2023 18:27:39 America/Fortaleza] PHP Warning:  Undefined variable $conn in /home2/turis832/public_html/Ajax/AjaxInsereCarrinho.php on line 35
+[10-Oct-2023 18:27:39 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home2/turis832/public_html/Ajax/AjaxInsereCarrinho.php:35
+Stack trace:
+#0 {main}
+  thrown in /home2/turis832/public_html/Ajax/AjaxInsereCarrinho.php on line 35
+[10-Oct-2023 18:29:15 America/Fortaleza] PHP Warning:  include_once(../../conexao.php): Failed to open stream: No such file or directory in /home2/turis832/public_html/Ajax/AjaxInsereCarrinho.php on line 6
+[10-Oct-2023 18:29:15 America/Fortaleza] PHP Warning:  include_once(): Failed opening '../../conexao.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home2/turis832/public_html/Ajax/AjaxInsereCarrinho.php on line 6
+[10-Oct-2023 18:29:15 America/Fortaleza] PHP Warning:  Undefined variable $conn in /home2/turis832/public_html/Ajax/AjaxInsereCarrinho.php on line 35
+[10-Oct-2023 18:29:15 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home2/turis832/public_html/Ajax/AjaxInsereCarrinho.php:35
+Stack trace:
+#0 {main}
+  thrown in /home2/turis832/public_html/Ajax/AjaxInsereCarrinho.php on line 35
+[10-Oct-2023 18:35:26 America/Fortaleza] PHP Fatal error:  Uncaught TypeError: implode(): Argument #2 ($array) must be of type ?array, string given in /home2/turis832/public_html/Ajax/AjaxInsereCarrinho.php:16
+Stack trace:
+#0 /home2/turis832/public_html/Ajax/AjaxInsereCarrinho.php(16): implode(',', '[object HTMLInp...')
+#1 {main}
+  thrown in /home2/turis832/public_html/Ajax/AjaxInsereCarrinho.php on line 16
+[10-Oct-2023 18:38:06 America/Fortaleza] PHP Warning:  Undefined variable $conn in /home2/turis832/public_html/Ajax/AjaxInsereCarrinho.php on line 40
+[10-Oct-2023 18:38:06 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home2/turis832/public_html/Ajax/AjaxInsereCarrinho.php:40
+Stack trace:
+#0 {main}
+  thrown in /home2/turis832/public_html/Ajax/AjaxInsereCarrinho.php on line 40
+[10-Oct-2023 18:44:10 America/Fortaleza] PHP Warning:  Undefined variable $conn in /home2/turis832/public_html/Ajax/AjaxInsereCarrinho.php on line 40
+[10-Oct-2023 18:44:10 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home2/turis832/public_html/Ajax/AjaxInsereCarrinho.php:40
+Stack trace:
+#0 {main}
+  thrown in /home2/turis832/public_html/Ajax/AjaxInsereCarrinho.php on line 40
+[10-Oct-2023 19:01:32 America/Fortaleza] PHP Warning:  Undefined variable $conn in /home2/turis832/public_html/Ajax/AjaxInsereCarrinho.php on line 44
+[10-Oct-2023 19:01:32 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home2/turis832/public_html/Ajax/AjaxInsereCarrinho.php:44
+Stack trace:
+#0 {main}
+  thrown in /home2/turis832/public_html/Ajax/AjaxInsereCarrinho.php on line 44
+[10-Oct-2023 19:07:21 America/Fortaleza] PHP Warning:  Undefined variable $conn in /home2/turis832/public_html/Ajax/AjaxInsereCarrinho.php on line 8
+[10-Oct-2023 19:07:21 America/Fortaleza] PHP Warning:  Undefined variable $conn in /home2/turis832/public_html/Ajax/AjaxInsereCarrinho.php on line 48
+[10-Oct-2023 19:07:21 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home2/turis832/public_html/Ajax/AjaxInsereCarrinho.php:48
+Stack trace:
+#0 {main}
+  thrown in /home2/turis832/public_html/Ajax/AjaxInsereCarrinho.php on line 48
+[10-Oct-2023 19:10:59 America/Fortaleza] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home2/turis832/public_html/Ajax/AjaxInsereCarrinho.php:53
+Stack trace:
+#0 /home2/turis832/public_html/Ajax/AjaxInsereCarrinho.php(53): mysqli_stmt->bind_param('isiss', NULL, '0', '3', '1', '17/06/2023', '31, 32')
+#1 {main}
+  thrown in /home2/turis832/public_html/Ajax/AjaxInsereCarrinho.php on line 53
+[10-Oct-2023 19:12:19 America/Fortaleza] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home2/turis832/public_html/Ajax/AjaxInsereCarrinho.php:53
+Stack trace:
+#0 /home2/turis832/public_html/Ajax/AjaxInsereCarrinho.php(53): mysqli_stmt->bind_param('siiss', NULL, '0', '3', '1', '17/06/2023', '31, 32')
+#1 {main}
+  thrown in /home2/turis832/public_html/Ajax/AjaxInsereCarrinho.php on line 53
+[10-Oct-2023 19:16:33 America/Fortaleza] PHP Warning:  Undefined array key "id_user" in /home2/turis832/public_html/Ajax/AjaxInsereCarrinho.php on line 51
+[10-Oct-2023 19:16:33 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function NOW() in /home2/turis832/public_html/Ajax/AjaxInsereCarrinho.php:51
+Stack trace:
+#0 {main}
+  thrown in /home2/turis832/public_html/Ajax/AjaxInsereCarrinho.php on line 51
+[10-Oct-2023 19:17:56 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function NOW() in /home2/turis832/public_html/Ajax/AjaxInsereCarrinho.php:51
+Stack trace:
+#0 {main}
+  thrown in /home2/turis832/public_html/Ajax/AjaxInsereCarrinho.php on line 51
+[10-Oct-2023 19:18:45 America/Fortaleza] PHP Notice:  Only variables should be passed by reference in /home2/turis832/public_html/Ajax/AjaxInsereCarrinho.php on line 51
+[10-Oct-2023 19:18:45 America/Fortaleza] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home2/turis832/public_html/Ajax/AjaxInsereCarrinho.php:51
+Stack trace:
+#0 /home2/turis832/public_html/Ajax/AjaxInsereCarrinho.php(51): mysqli_stmt->bind_param('2', '0', '1', '0', NULL, '17/06/2023', '35, 24')
+#1 {main}
+  thrown in /home2/turis832/public_html/Ajax/AjaxInsereCarrinho.php on line 51
+[10-Oct-2023 19:19:07 America/Fortaleza] PHP Fatal error:  Uncaught ValueError: shell_exec(): Argument #1 ($command) cannot be empty in /home2/turis832/public_html/Ajax/AjaxInsereCarrinho.php:51
+Stack trace:
+#0 /home2/turis832/public_html/Ajax/AjaxInsereCarrinho.php(51): shell_exec('')
+#1 {main}
+  thrown in /home2/turis832/public_html/Ajax/AjaxInsereCarrinho.php on line 51
+[10-Oct-2023 19:20:31 America/Fortaleza] PHP Fatal error:  Uncaught Error: mysqli_stmt::bind_param(): Argument #3 cannot be passed by reference in /home2/turis832/public_html/Ajax/AjaxInsereCarrinho.php:51
+Stack trace:
+#0 {main}
+  thrown in /home2/turis832/public_html/Ajax/AjaxInsereCarrinho.php on line 51
+[10-Oct-2023 19:21:20 America/Fortaleza] PHP Fatal error:  Uncaught Error: mysqli_stmt::bind_param(): Argument #3 cannot be passed by reference in /home2/turis832/public_html/Ajax/AjaxInsereCarrinho.php:55
+Stack trace:
+#0 {main}
+  thrown in /home2/turis832/public_html/Ajax/AjaxInsereCarrinho.php on line 55
+[10-Oct-2023 19:21:44 America/Fortaleza] PHP Fatal error:  Uncaught Error: mysqli_stmt::bind_param(): Argument #2 cannot be passed by reference in /home2/turis832/public_html/Ajax/AjaxInsereCarrinho.php:55
+Stack trace:
+#0 {main}
+  thrown in /home2/turis832/public_html/Ajax/AjaxInsereCarrinho.php on line 55
+[10-Oct-2023 22:22:11 America/Fortaleza] PHP Warning:  Undefined array key "id_user" in /home2/turis832/public_html/Ajax/AjaxInsereCarrinho.php on line 43
+[10-Oct-2023 22:24:11 America/Fortaleza] PHP Warning:  Undefined array key "id_user" in /home2/turis832/public_html/Ajax/AjaxInsereCarrinho.php on line 43
+[11-Oct-2023 00:09:22 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '1'',
+                    ''2'',
+                    ''2'',
+                  ' at line 14 in /home2/turis832/public_html/Ajax/AjaxInsereCarrinho.php:60
+Stack trace:
+#0 /home2/turis832/public_html/Ajax/AjaxInsereCarrinho.php(60): mysqli->query('INSERT INTO tb_...')
+#1 {main}
+  thrown in /home2/turis832/public_html/Ajax/AjaxInsereCarrinho.php on line 60
+[11-Oct-2023 00:12:58 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '2'',
+                    ''1'',
+                    ''1'',
+                  ' at line 14 in /home2/turis832/public_html/Ajax/AjaxInsereCarrinho.php:60
+Stack trace:
+#0 /home2/turis832/public_html/Ajax/AjaxInsereCarrinho.php(60): mysqli->query('INSERT INTO tb_...')
+#1 {main}
+  thrown in /home2/turis832/public_html/Ajax/AjaxInsereCarrinho.php on line 60
+[11-Oct-2023 00:18:48 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '2'',
+                    ''1'',
+                    'NULL',
+                 ' at line 14 in /home2/turis832/public_html/Ajax/AjaxInsereCarrinho.php:60
+Stack trace:
+#0 /home2/turis832/public_html/Ajax/AjaxInsereCarrinho.php(60): mysqli->query('INSERT INTO tb_...')
+#1 {main}
+  thrown in /home2/turis832/public_html/Ajax/AjaxInsereCarrinho.php on line 60
+[11-Oct-2023 00:20:31 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '1'',
+                    ''2'',
+                    ''2'',
+                  ' at line 14 in /home2/turis832/public_html/Ajax/AjaxInsereCarrinho.php:60
+Stack trace:
+#0 /home2/turis832/public_html/Ajax/AjaxInsereCarrinho.php(60): mysqli->query('INSERT INTO tb_...')
+#1 {main}
+  thrown in /home2/turis832/public_html/Ajax/AjaxInsereCarrinho.php on line 60
+[11-Oct-2023 00:35:52 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '3'',
+                    ''2'',
+                    ''2'',
+                  ' at line 14 in /home2/turis832/public_html/Ajax/AjaxInsereCarrinho.php:60
+Stack trace:
+#0 /home2/turis832/public_html/Ajax/AjaxInsereCarrinho.php(60): mysqli->query('INSERT INTO tb_...')
+#1 {main}
+  thrown in /home2/turis832/public_html/Ajax/AjaxInsereCarrinho.php on line 60
+[11-Oct-2023 00:37:18 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '1'',
+                    'NULL',
+                    'NULL',
+                ' at line 14 in /home2/turis832/public_html/Ajax/AjaxInsereCarrinho.php:60
+Stack trace:
+#0 /home2/turis832/public_html/Ajax/AjaxInsereCarrinho.php(60): mysqli->query('INSERT INTO tb_...')
+#1 {main}
+  thrown in /home2/turis832/public_html/Ajax/AjaxInsereCarrinho.php on line 60
+[11-Oct-2023 00:38:58 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '1'',
+                    'NULL',
+                    'NULL',
+                ' at line 14 in /home2/turis832/public_html/Ajax/AjaxInsereCarrinho.php:60
+Stack trace:
+#0 /home2/turis832/public_html/Ajax/AjaxInsereCarrinho.php(60): mysqli->query('INSERT INTO tb_...')
+#1 {main}
+  thrown in /home2/turis832/public_html/Ajax/AjaxInsereCarrinho.php on line 60
+[11-Oct-2023 00:42:33 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '2'',
+                    ''1'',
+                    'NULL',
+                 ' at line 14 in /home2/turis832/public_html/Ajax/AjaxInsereCarrinho.php:60
+Stack trace:
+#0 /home2/turis832/public_html/Ajax/AjaxInsereCarrinho.php(60): mysqli->query('INSERT INTO tb_...')
+#1 {main}
+  thrown in /home2/turis832/public_html/Ajax/AjaxInsereCarrinho.php on line 60
+[11-Oct-2023 00:45:14 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '2'',
+                    ''2'',
+                    ''2'',
+                  ' at line 14 in /home2/turis832/public_html/Ajax/AjaxInsereCarrinho.php:60
+Stack trace:
+#0 /home2/turis832/public_html/Ajax/AjaxInsereCarrinho.php(60): mysqli->query('INSERT INTO tb_...')
+#1 {main}
+  thrown in /home2/turis832/public_html/Ajax/AjaxInsereCarrinho.php on line 60
+[11-Oct-2023 00:49:16 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '1'',
+                    ''1'',
+                    ''1'',
+                  ' at line 17 in /home2/turis832/public_html/Ajax/AjaxInsereCarrinho.php:69
+Stack trace:
+#0 /home2/turis832/public_html/Ajax/AjaxInsereCarrinho.php(69): mysqli->query('INSERT INTO tb_...')
+#1 {main}
+  thrown in /home2/turis832/public_html/Ajax/AjaxInsereCarrinho.php on line 69
+[11-Oct-2023 07:57:58 America/Fortaleza] PHP Warning:  Undefined array key "id_user" in /home2/turis832/public_html/Ajax/AjaxInsereCarrinhoHopi.php on line 54
+[11-Oct-2023 13:24:03 America/Fortaleza] PHP Warning:  Undefined array key "id_user" in /home2/turis832/public_html/Ajax/AjaxInsereCarrinhoHopi.php on line 54
+[11-Oct-2023 18:31:19 America/Fortaleza] PHP Warning:  Undefined array key "id_user" in /home2/turis832/public_html/Ajax/AjaxInsereCarrinhoHopi.php on line 54
+[11-Oct-2023 21:21:52 America/Fortaleza] PHP Warning:  Undefined array key "id_user" in /home2/turis832/public_html/Ajax/AjaxInsereCarrinhoHopi.php on line 54
+[11-Oct-2023 22:23:22 America/Fortaleza] PHP Warning:  Undefined array key "id_user" in /home2/turis832/public_html/Ajax/AjaxInsereCarrinhoHopi.php on line 54
+[12-Oct-2023 15:19:58 America/Fortaleza] PHP Warning:  Undefined array key "GuardaDate" in /home2/turis832/public_html/Ajax/AjaxValidaRegistroExistente.php on line 8
+[12-Oct-2023 15:25:07 America/Fortaleza] PHP Warning:  Undefined array key "GuardaDate" in /home2/turis832/public_html/Ajax/AjaxValidaRegistroExistente.php on line 8
+[12-Oct-2023 15:33:30 America/Fortaleza] PHP Warning:  Undefined array key "GuardaDate" in /home2/turis832/public_html/Ajax/AjaxValidaRegistroExistente.php on line 8
+[12-Oct-2023 15:36:07 America/Fortaleza] PHP Warning:  Undefined array key "GuardaDate" in /home2/turis832/public_html/Ajax/AjaxValidaRegistroExistente.php on line 8
+[12-Oct-2023 17:08:39 America/Fortaleza] PHP Fatal error:  Uncaught Error: Undefined constant "Swal" in /home2/turis832/public_html/Ajax/AjaxInsereCarrinhoHopi.php:31
+Stack trace:
+#0 {main}
+  thrown in /home2/turis832/public_html/Ajax/AjaxInsereCarrinhoHopi.php on line 31
+[12-Oct-2023 19:02:18 America/Fortaleza] PHP Warning:  Undefined array key "id_user" in /home2/turis832/public_html/Ajax/AjaxInsereCarrinhoHopi.php on line 21
+[12-Oct-2023 19:02:18 America/Fortaleza] PHP Warning:  Undefined array key "id_user" in /home2/turis832/public_html/Ajax/AjaxInsereCarrinhoHopi.php on line 66
+[12-Oct-2023 19:17:41 America/Fortaleza] PHP Warning:  Undefined array key "id_user" in /home2/turis832/public_html/Ajax/AjaxInsereCarrinhoHopi.php on line 21
+[12-Oct-2023 19:17:41 America/Fortaleza] PHP Warning:  Undefined array key "id_user" in /home2/turis832/public_html/Ajax/AjaxInsereCarrinhoHopi.php on line 66
+[13-Oct-2023 15:07:55 America/Fortaleza] PHP Warning:  Undefined array key "id_user" in /home2/turis832/public_html/Ajax/AjaxInsereCarrinhoHopi.php on line 21
+[14-Oct-2023 14:15:13 America/Fortaleza] PHP Warning:  Undefined variable $GuardaTodosValor in /home2/turis832/public_html/Ajax/AjaxInsereCarrinhoHopi.php on line 10
+[14-Oct-2023 15:36:12 America/Fortaleza] PHP Warning:  include(conexao.php): Failed to open stream: No such file or directory in /home2/turis832/public_html/Ajax/Pagamento.php on line 3
+[14-Oct-2023 15:36:12 America/Fortaleza] PHP Warning:  include(conexao.php): Failed to open stream: No such file or directory in /home2/turis832/public_html/Ajax/Pagamento.php on line 3
+[14-Oct-2023 15:36:12 America/Fortaleza] PHP Warning:  include(): Failed opening 'conexao.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home2/turis832/public_html/Ajax/Pagamento.php on line 3
+[14-Oct-2023 15:38:14 America/Fortaleza] PHP Warning:  include(conexao.php): Failed to open stream: No such file or directory in /home2/turis832/public_html/Ajax/Pagamento.php on line 3
+[14-Oct-2023 15:38:14 America/Fortaleza] PHP Warning:  include(conexao.php): Failed to open stream: No such file or directory in /home2/turis832/public_html/Ajax/Pagamento.php on line 3
+[14-Oct-2023 15:38:14 America/Fortaleza] PHP Warning:  include(): Failed opening 'conexao.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home2/turis832/public_html/Ajax/Pagamento.php on line 3
+[14-Oct-2023 15:39:42 America/Fortaleza] PHP Warning:  include(conexao.php): Failed to open stream: No such file or directory in /home2/turis832/public_html/Ajax/Pagamento.php on line 3
+[14-Oct-2023 15:39:42 America/Fortaleza] PHP Warning:  include(conexao.php): Failed to open stream: No such file or directory in /home2/turis832/public_html/Ajax/Pagamento.php on line 3
+[14-Oct-2023 15:39:42 America/Fortaleza] PHP Warning:  include(): Failed opening 'conexao.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home2/turis832/public_html/Ajax/Pagamento.php on line 3
+[14-Oct-2023 22:19:16 America/Fortaleza] PHP Parse error:  syntax error, unexpected token "else", expecting end of file in /home2/turis832/public_html/Ajax/AjaxDeletaCarrinho.php on line 25
+[14-Oct-2023 22:21:49 America/Fortaleza] PHP Warning:  Undefined variable $id_user in /home2/turis832/public_html/Ajax/AjaxDeletaCarrinho.php on line 13
+[14-Oct-2023 22:22:42 America/Fortaleza] PHP Warning:  Undefined variable $id_user in /home2/turis832/public_html/Ajax/AjaxDeletaCarrinho.php on line 13
+[15-Oct-2023 23:01:14 America/Fortaleza] PHP Parse error:  syntax error, unexpected token "." in /home2/turis832/public_html/Ajax/AjaxPagamento.php on line 125
+[15-Oct-2023 23:47:46 America/Fortaleza] PHP Warning:  Undefined array key "identificador" in /home2/turis832/public_html/Ajax/AjaxPagamento.php on line 130
+[15-Oct-2023 23:49:48 America/Fortaleza] PHP Warning:  Undefined array key "identificador" in /home2/turis832/public_html/Ajax/AjaxPagamento.php on line 130
+[15-Oct-2023 23:49:48 America/Fortaleza] PHP Warning:  Undefined variable $id_user in /home2/turis832/public_html/Ajax/AjaxPagamento.php on line 134
+[15-Oct-2023 23:53:27 America/Fortaleza] PHP Parse error:  syntax error, unexpected string content "", expecting "-" or identifier or variable or number in /home2/turis832/public_html/Ajax/AjaxPagamento.php on line 136
+[15-Oct-2023 23:53:28 America/Fortaleza] PHP Parse error:  syntax error, unexpected string content "", expecting "-" or identifier or variable or number in /home2/turis832/public_html/Ajax/AjaxPagamento.php on line 136
+[15-Oct-2023 23:53:28 America/Fortaleza] PHP Parse error:  syntax error, unexpected string content "", expecting "-" or identifier or variable or number in /home2/turis832/public_html/Ajax/AjaxPagamento.php on line 136
+[15-Oct-2023 23:53:35 America/Fortaleza] PHP Parse error:  syntax error, unexpected string content "", expecting "-" or identifier or variable or number in /home2/turis832/public_html/Ajax/AjaxPagamento.php on line 136
+[15-Oct-2023 23:53:35 America/Fortaleza] PHP Parse error:  syntax error, unexpected string content "", expecting "-" or identifier or variable or number in /home2/turis832/public_html/Ajax/AjaxPagamento.php on line 136
+[15-Oct-2023 23:54:38 America/Fortaleza] PHP Parse error:  syntax error, unexpected string content "", expecting "-" or identifier or variable or number in /home2/turis832/public_html/Ajax/AjaxPagamento.php on line 136
+[15-Oct-2023 23:55:09 America/Fortaleza] PHP Parse error:  syntax error, unexpected string content "", expecting "-" or identifier or variable or number in /home2/turis832/public_html/Ajax/AjaxPagamento.php on line 135
+[15-Oct-2023 23:56:10 America/Fortaleza] PHP Warning:  Undefined array key "identificador" in /home2/turis832/public_html/Ajax/AjaxPagamento.php on line 130
+[15-Oct-2023 23:56:10 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND tc.id_carrinho = ''' at line 3 in /home2/turis832/public_html/Ajax/AjaxPagamento.php:136
+Stack trace:
+#0 /home2/turis832/public_html/Ajax/AjaxPagamento.php(136): mysqli_query(Object(mysqli), ' SELECT tc.*, u...')
+#1 {main}
+  thrown in /home2/turis832/public_html/Ajax/AjaxPagamento.php on line 136
+[15-Oct-2023 23:58:00 America/Fortaleza] PHP Warning:  Undefined array key "identificador" in /home2/turis832/public_html/Ajax/AjaxPagamento.php on line 130
+[16-Oct-2023 00:10:16 America/Fortaleza] PHP Fatal error:  Cannot use [] for reading in /home2/turis832/public_html/Ajax/AjaxPagamento.php on line 124
+[16-Oct-2023 00:10:30 America/Fortaleza] PHP Fatal error:  Cannot use [] for reading in /home2/turis832/public_html/Ajax/AjaxPagamento.php on line 124
+[16-Oct-2023 00:24:03 America/Fortaleza] PHP Warning:  Undefined variable $row in /home2/turis832/public_html/Ajax/AjaxPagamento.php on line 156
+[16-Oct-2023 00:24:03 America/Fortaleza] PHP Warning:  Trying to access array offset on value of type null in /home2/turis832/public_html/Ajax/AjaxPagamento.php on line 156
+[16-Oct-2023 00:24:03 America/Fortaleza] PHP Warning:  Undefined variable $row in /home2/turis832/public_html/Ajax/AjaxPagamento.php on line 161
+[16-Oct-2023 00:24:03 America/Fortaleza] PHP Warning:  Trying to access array offset on value of type null in /home2/turis832/public_html/Ajax/AjaxPagamento.php on line 161
+[16-Oct-2023 00:24:03 America/Fortaleza] PHP Warning:  Undefined variable $row in /home2/turis832/public_html/Ajax/AjaxPagamento.php on line 161
+[16-Oct-2023 00:24:03 America/Fortaleza] PHP Warning:  Trying to access array offset on value of type null in /home2/turis832/public_html/Ajax/AjaxPagamento.php on line 161
+[16-Oct-2023 00:24:03 America/Fortaleza] PHP Warning:  Undefined variable $row in /home2/turis832/public_html/Ajax/AjaxPagamento.php on line 161
+[16-Oct-2023 00:24:03 America/Fortaleza] PHP Warning:  Trying to access array offset on value of type null in /home2/turis832/public_html/Ajax/AjaxPagamento.php on line 161
+[16-Oct-2023 00:30:21 America/Fortaleza] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /home2/turis832/public_html/Ajax/AjaxPagamento.php on line 118
+[16-Oct-2023 00:30:30 America/Fortaleza] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /home2/turis832/public_html/Ajax/AjaxPagamento.php on line 118
+[16-Oct-2023 00:53:37 America/Fortaleza] PHP Warning:  Undefined array key "valorPagamento" in /home2/turis832/public_html/Ajax/AjaxPagamento.php on line 123
+[16-Oct-2023 00:53:37 America/Fortaleza] PHP Warning:  Undefined array key "idCarrinho" in /home2/turis832/public_html/Ajax/AjaxPagamento.php on line 124
+[16-Oct-2023 00:53:40 America/Fortaleza] PHP Warning:  Undefined array key "valorPagamento" in /home2/turis832/public_html/Ajax/AjaxPagamento.php on line 123
+[16-Oct-2023 00:53:40 America/Fortaleza] PHP Warning:  Undefined array key "idCarrinho" in /home2/turis832/public_html/Ajax/AjaxPagamento.php on line 124
+[16-Oct-2023 00:53:42 America/Fortaleza] PHP Warning:  Undefined array key "valorPagamento" in /home2/turis832/public_html/Ajax/AjaxPagamento.php on line 123
+[16-Oct-2023 00:53:42 America/Fortaleza] PHP Warning:  Undefined array key "idCarrinho" in /home2/turis832/public_html/Ajax/AjaxPagamento.php on line 124
+[16-Oct-2023 01:28:18 America/Fortaleza] PHP Warning:  Undefined variable $nome_vigem in /home2/turis832/public_html/Ajax/AjaxPagamento.php on line 253
+[16-Oct-2023 01:29:55 America/Fortaleza] PHP Warning:  Attempt to read property "numeroCartao" on null in /home2/turis832/public_html/Ajax/AjaxEnviaPagamento.php on line 14
+[16-Oct-2023 01:29:55 America/Fortaleza] PHP Warning:  Attempt to read property "nomeCompleto" on null in /home2/turis832/public_html/Ajax/AjaxEnviaPagamento.php on line 15
+[16-Oct-2023 01:29:55 America/Fortaleza] PHP Warning:  Attempt to read property "anoVencimento" on null in /home2/turis832/public_html/Ajax/AjaxEnviaPagamento.php on line 16
+[16-Oct-2023 01:29:55 America/Fortaleza] PHP Warning:  Attempt to read property "codSeguranca" on null in /home2/turis832/public_html/Ajax/AjaxEnviaPagamento.php on line 17
+[16-Oct-2023 01:29:55 America/Fortaleza] PHP Warning:  Attempt to read property "numParcelas" on null in /home2/turis832/public_html/Ajax/AjaxEnviaPagamento.php on line 18
+[16-Oct-2023 01:29:55 America/Fortaleza] PHP Warning:  Attempt to read property "valorTotalViagem" on null in /home2/turis832/public_html/Ajax/AjaxEnviaPagamento.php on line 19
+[16-Oct-2023 01:29:55 America/Fortaleza] PHP Warning:  Attempt to read property "valorTotalFinal" on null in /home2/turis832/public_html/Ajax/AjaxEnviaPagamento.php on line 20
+[16-Oct-2023 01:29:55 America/Fortaleza] PHP Warning:  Attempt to read property "idCarrinho" on null in /home2/turis832/public_html/Ajax/AjaxEnviaPagamento.php on line 21
+[16-Oct-2023 01:29:55 America/Fortaleza] PHP Warning:  Attempt to read property "valorPagamento" on null in /home2/turis832/public_html/Ajax/AjaxEnviaPagamento.php on line 26
+[16-Oct-2023 01:32:40 America/Fortaleza] PHP Warning:  Attempt to read property "numeroCartao" on null in /home2/turis832/public_html/Ajax/AjaxEnviaPagamento.php on line 14
+[16-Oct-2023 01:32:40 America/Fortaleza] PHP Warning:  Attempt to read property "nomeCompleto" on null in /home2/turis832/public_html/Ajax/AjaxEnviaPagamento.php on line 15
+[16-Oct-2023 01:32:40 America/Fortaleza] PHP Warning:  Attempt to read property "anoVencimento" on null in /home2/turis832/public_html/Ajax/AjaxEnviaPagamento.php on line 16
+[16-Oct-2023 01:32:40 America/Fortaleza] PHP Warning:  Attempt to read property "codSeguranca" on null in /home2/turis832/public_html/Ajax/AjaxEnviaPagamento.php on line 17
+[16-Oct-2023 01:32:40 America/Fortaleza] PHP Warning:  Attempt to read property "numParcelas" on null in /home2/turis832/public_html/Ajax/AjaxEnviaPagamento.php on line 18
+[16-Oct-2023 01:32:40 America/Fortaleza] PHP Warning:  Attempt to read property "valorTotalViagem" on null in /home2/turis832/public_html/Ajax/AjaxEnviaPagamento.php on line 19
+[16-Oct-2023 01:32:40 America/Fortaleza] PHP Warning:  Attempt to read property "valorTotalFinal" on null in /home2/turis832/public_html/Ajax/AjaxEnviaPagamento.php on line 20
+[16-Oct-2023 01:32:40 America/Fortaleza] PHP Warning:  Attempt to read property "idCarrinho" on null in /home2/turis832/public_html/Ajax/AjaxEnviaPagamento.php on line 21
+[16-Oct-2023 01:32:40 America/Fortaleza] PHP Warning:  Attempt to read property "nome_viagem" on null in /home2/turis832/public_html/Ajax/AjaxEnviaPagamento.php on line 22
+[16-Oct-2023 01:32:40 America/Fortaleza] PHP Warning:  Attempt to read property "ingresso_kid" on null in /home2/turis832/public_html/Ajax/AjaxEnviaPagamento.php on line 23
+[16-Oct-2023 01:32:40 America/Fortaleza] PHP Warning:  Attempt to read property "ingresso_adulto" on null in /home2/turis832/public_html/Ajax/AjaxEnviaPagamento.php on line 24
+[16-Oct-2023 01:32:40 America/Fortaleza] PHP Warning:  Attempt to read property "ingresso_idoso" on null in /home2/turis832/public_html/Ajax/AjaxEnviaPagamento.php on line 25
+[16-Oct-2023 01:32:40 America/Fortaleza] PHP Warning:  Attempt to read property "valorPagamento" on null in /home2/turis832/public_html/Ajax/AjaxEnviaPagamento.php on line 29
+[16-Oct-2023 01:42:07 America/Fortaleza] PHP Warning:  Array to string conversion in /home2/turis832/public_html/Ajax/AjaxPagamento.php on line 251
+[16-Oct-2023 01:42:07 America/Fortaleza] PHP Warning:  Array to string conversion in /home2/turis832/public_html/Ajax/AjaxPagamento.php on line 252
+[16-Oct-2023 01:42:07 America/Fortaleza] PHP Warning:  Array to string conversion in /home2/turis832/public_html/Ajax/AjaxPagamento.php on line 253
+[16-Oct-2023 01:43:00 America/Fortaleza] PHP Warning:  Array to string conversion in /home2/turis832/public_html/Ajax/AjaxPagamento.php on line 250
+[16-Oct-2023 01:43:00 America/Fortaleza] PHP Warning:  Array to string conversion in /home2/turis832/public_html/Ajax/AjaxPagamento.php on line 251
+[16-Oct-2023 01:43:00 America/Fortaleza] PHP Warning:  Array to string conversion in /home2/turis832/public_html/Ajax/AjaxPagamento.php on line 252
+[16-Oct-2023 01:47:02 America/Fortaleza] PHP Warning:  Array to string conversion in /home2/turis832/public_html/Ajax/AjaxPagamento.php on line 250
+[16-Oct-2023 01:47:02 America/Fortaleza] PHP Warning:  Array to string conversion in /home2/turis832/public_html/Ajax/AjaxPagamento.php on line 251
+[16-Oct-2023 01:47:02 America/Fortaleza] PHP Warning:  Array to string conversion in /home2/turis832/public_html/Ajax/AjaxPagamento.php on line 252
+[16-Oct-2023 01:49:52 America/Fortaleza] PHP Warning:  Array to string conversion in /home2/turis832/public_html/Ajax/AjaxPagamento.php on line 250
+[16-Oct-2023 01:49:52 America/Fortaleza] PHP Warning:  Array to string conversion in /home2/turis832/public_html/Ajax/AjaxPagamento.php on line 251
+[16-Oct-2023 01:49:52 America/Fortaleza] PHP Warning:  Array to string conversion in /home2/turis832/public_html/Ajax/AjaxPagamento.php on line 252
+[16-Oct-2023 01:52:24 America/Fortaleza] PHP Warning:  Array to string conversion in /home2/turis832/public_html/Ajax/AjaxPagamento.php on line 250
+[16-Oct-2023 01:52:24 America/Fortaleza] PHP Warning:  Array to string conversion in /home2/turis832/public_html/Ajax/AjaxPagamento.php on line 251
+[16-Oct-2023 01:52:24 America/Fortaleza] PHP Warning:  Array to string conversion in /home2/turis832/public_html/Ajax/AjaxPagamento.php on line 252
+[16-Oct-2023 01:58:40 America/Fortaleza] PHP Warning:  Attempt to read property "idCarrinho" on null in /home2/turis832/public_html/Ajax/AjaxEnviaPagamento.php on line 14
+[16-Oct-2023 01:58:40 America/Fortaleza] PHP Warning:  Undefined variable $conn in /home2/turis832/public_html/Ajax/AjaxEnviaPagamento.php on line 20
+[16-Oct-2023 01:58:40 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home2/turis832/public_html/Ajax/AjaxEnviaPagamento.php:20
+Stack trace:
+#0 {main}
+  thrown in /home2/turis832/public_html/Ajax/AjaxEnviaPagamento.php on line 20
+[16-Oct-2023 02:00:50 America/Fortaleza] PHP Warning:  Undefined variable $conn in /home2/turis832/public_html/Ajax/AjaxEnviaPagamento.php on line 8
+[16-Oct-2023 02:00:50 America/Fortaleza] PHP Warning:  Attempt to read property "idCarrinho" on null in /home2/turis832/public_html/Ajax/AjaxEnviaPagamento.php on line 17
+[16-Oct-2023 02:00:50 America/Fortaleza] PHP Warning:  Undefined variable $conn in /home2/turis832/public_html/Ajax/AjaxEnviaPagamento.php on line 24
+[16-Oct-2023 02:00:50 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home2/turis832/public_html/Ajax/AjaxEnviaPagamento.php:24
+Stack trace:
+#0 {main}
+  thrown in /home2/turis832/public_html/Ajax/AjaxEnviaPagamento.php on line 24
+[16-Oct-2023 02:02:55 America/Fortaleza] PHP Warning:  Undefined variable $conn in /home2/turis832/public_html/Ajax/AjaxEnviaPagamento.php on line 8
+[16-Oct-2023 02:02:55 America/Fortaleza] PHP Warning:  Attempt to read property "id_carrinho" on null in /home2/turis832/public_html/Ajax/AjaxEnviaPagamento.php on line 17
+[16-Oct-2023 02:02:55 America/Fortaleza] PHP Warning:  Undefined variable $conn in /home2/turis832/public_html/Ajax/AjaxEnviaPagamento.php on line 24
+[16-Oct-2023 02:02:55 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home2/turis832/public_html/Ajax/AjaxEnviaPagamento.php:24
+Stack trace:
+#0 {main}
+  thrown in /home2/turis832/public_html/Ajax/AjaxEnviaPagamento.php on line 24
+[16-Oct-2023 02:05:32 America/Fortaleza] PHP Warning:  Undefined variable $conn in /home2/turis832/public_html/Ajax/AjaxEnviaPagamento.php on line 8
+[16-Oct-2023 02:05:32 America/Fortaleza] PHP Warning:  Attempt to read property "id_carrinho" on null in /home2/turis832/public_html/Ajax/AjaxEnviaPagamento.php on line 17
+[16-Oct-2023 02:05:32 America/Fortaleza] PHP Warning:  Undefined variable $conn in /home2/turis832/public_html/Ajax/AjaxEnviaPagamento.php on line 24
+[16-Oct-2023 02:05:32 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home2/turis832/public_html/Ajax/AjaxEnviaPagamento.php:24
+Stack trace:
+#0 {main}
+  thrown in /home2/turis832/public_html/Ajax/AjaxEnviaPagamento.php on line 24
+[16-Oct-2023 02:06:48 America/Fortaleza] PHP Warning:  Undefined variable $conn in /home2/turis832/public_html/Ajax/AjaxEnviaPagamento.php on line 8
+[16-Oct-2023 02:06:48 America/Fortaleza] PHP Warning:  Attempt to read property "id_carrinho" on null in /home2/turis832/public_html/Ajax/AjaxEnviaPagamento.php on line 17
+[16-Oct-2023 02:06:48 America/Fortaleza] PHP Warning:  Undefined variable $conn in /home2/turis832/public_html/Ajax/AjaxEnviaPagamento.php on line 24
+[16-Oct-2023 02:06:48 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home2/turis832/public_html/Ajax/AjaxEnviaPagamento.php:24
+Stack trace:
+#0 {main}
+  thrown in /home2/turis832/public_html/Ajax/AjaxEnviaPagamento.php on line 24
+[16-Oct-2023 02:09:21 America/Fortaleza] PHP Warning:  Undefined variable $conn in /home2/turis832/public_html/Ajax/AjaxEnviaPagamento.php on line 8
+[16-Oct-2023 02:09:21 America/Fortaleza] PHP Warning:  Attempt to read property "id_carrinho" on null in /home2/turis832/public_html/Ajax/AjaxEnviaPagamento.php on line 17
+[16-Oct-2023 02:09:21 America/Fortaleza] PHP Warning:  Undefined variable $conn in /home2/turis832/public_html/Ajax/AjaxEnviaPagamento.php on line 22
+[16-Oct-2023 02:09:21 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home2/turis832/public_html/Ajax/AjaxEnviaPagamento.php:22
+Stack trace:
+#0 {main}
+  thrown in /home2/turis832/public_html/Ajax/AjaxEnviaPagamento.php on line 22
+[16-Oct-2023 02:10:28 America/Fortaleza] PHP Warning:  Attempt to read property "numeroCartao" on null in /home2/turis832/public_html/Ajax/AjaxEnviaPagamento.php on line 13
+[16-Oct-2023 02:10:28 America/Fortaleza] PHP Warning:  Attempt to read property "nomeCompleto" on null in /home2/turis832/public_html/Ajax/AjaxEnviaPagamento.php on line 14
+[16-Oct-2023 02:10:28 America/Fortaleza] PHP Warning:  Attempt to read property "anoVencimento" on null in /home2/turis832/public_html/Ajax/AjaxEnviaPagamento.php on line 15
+[16-Oct-2023 02:10:28 America/Fortaleza] PHP Warning:  Attempt to read property "codSeguranca" on null in /home2/turis832/public_html/Ajax/AjaxEnviaPagamento.php on line 16
+[16-Oct-2023 02:10:28 America/Fortaleza] PHP Warning:  Attempt to read property "numParcelas" on null in /home2/turis832/public_html/Ajax/AjaxEnviaPagamento.php on line 17
+[16-Oct-2023 02:10:28 America/Fortaleza] PHP Warning:  Attempt to read property "valorTotalViagem" on null in /home2/turis832/public_html/Ajax/AjaxEnviaPagamento.php on line 18
+[16-Oct-2023 02:10:28 America/Fortaleza] PHP Warning:  Attempt to read property "valorTotalFinal" on null in /home2/turis832/public_html/Ajax/AjaxEnviaPagamento.php on line 19
+[16-Oct-2023 02:10:28 America/Fortaleza] PHP Warning:  Attempt to read property "idCarrinho" on null in /home2/turis832/public_html/Ajax/AjaxEnviaPagamento.php on line 20
+[16-Oct-2023 02:10:28 America/Fortaleza] PHP Warning:  Attempt to read property "valorPagamento" on null in /home2/turis832/public_html/Ajax/AjaxEnviaPagamento.php on line 24
+[16-Oct-2023 02:19:14 America/Fortaleza] PHP Warning:  Attempt to read property "idCarrinho" on null in /home2/turis832/public_html/Ajax/AjaxEnviaPagamento.php on line 13
+[16-Oct-2023 02:19:14 America/Fortaleza] PHP Warning:  Attempt to read property "numeroCartao" on null in /home2/turis832/public_html/Ajax/AjaxEnviaPagamento.php on line 14
+[16-Oct-2023 02:19:14 America/Fortaleza] PHP Warning:  Attempt to read property "nomeCompleto" on null in /home2/turis832/public_html/Ajax/AjaxEnviaPagamento.php on line 15
+[16-Oct-2023 02:19:14 America/Fortaleza] PHP Warning:  Attempt to read property "anoVencimento" on null in /home2/turis832/public_html/Ajax/AjaxEnviaPagamento.php on line 16
+[16-Oct-2023 02:19:14 America/Fortaleza] PHP Warning:  Attempt to read property "codSeguranca" on null in /home2/turis832/public_html/Ajax/AjaxEnviaPagamento.php on line 17
+[16-Oct-2023 02:19:14 America/Fortaleza] PHP Warning:  Attempt to read property "numParcelas" on null in /home2/turis832/public_html/Ajax/AjaxEnviaPagamento.php on line 18
+[16-Oct-2023 02:19:14 America/Fortaleza] PHP Warning:  Attempt to read property "valorTotalViagem" on null in /home2/turis832/public_html/Ajax/AjaxEnviaPagamento.php on line 19
+[16-Oct-2023 02:19:14 America/Fortaleza] PHP Warning:  Attempt to read property "valorTotalFinal" on null in /home2/turis832/public_html/Ajax/AjaxEnviaPagamento.php on line 20
+[16-Oct-2023 02:19:14 America/Fortaleza] PHP Warning:  Attempt to read property "valorPagamento" on null in /home2/turis832/public_html/Ajax/AjaxEnviaPagamento.php on line 24
+[16-Oct-2023 02:19:56 America/Fortaleza] PHP Warning:  Attempt to read property "idCarrinho" on null in /home2/turis832/public_html/Ajax/AjaxEnviaPagamento.php on line 13
+[16-Oct-2023 02:19:56 America/Fortaleza] PHP Warning:  Attempt to read property "numeroCartao" on null in /home2/turis832/public_html/Ajax/AjaxEnviaPagamento.php on line 14
+[16-Oct-2023 02:19:56 America/Fortaleza] PHP Warning:  Attempt to read property "nomeCompleto" on null in /home2/turis832/public_html/Ajax/AjaxEnviaPagamento.php on line 15
+[16-Oct-2023 02:19:56 America/Fortaleza] PHP Warning:  Attempt to read property "anoVencimento" on null in /home2/turis832/public_html/Ajax/AjaxEnviaPagamento.php on line 16
+[16-Oct-2023 02:19:56 America/Fortaleza] PHP Warning:  Attempt to read property "codSeguranca" on null in /home2/turis832/public_html/Ajax/AjaxEnviaPagamento.php on line 17
+[16-Oct-2023 02:19:56 America/Fortaleza] PHP Warning:  Attempt to read property "numParcelas" on null in /home2/turis832/public_html/Ajax/AjaxEnviaPagamento.php on line 18
+[16-Oct-2023 02:19:56 America/Fortaleza] PHP Warning:  Attempt to read property "valorTotalViagem" on null in /home2/turis832/public_html/Ajax/AjaxEnviaPagamento.php on line 19
+[16-Oct-2023 02:19:56 America/Fortaleza] PHP Warning:  Attempt to read property "valorTotalFinal" on null in /home2/turis832/public_html/Ajax/AjaxEnviaPagamento.php on line 20
+[16-Oct-2023 02:19:56 America/Fortaleza] PHP Warning:  Attempt to read property "valorPagamento" on null in /home2/turis832/public_html/Ajax/AjaxEnviaPagamento.php on line 24
+[16-Oct-2023 02:20:41 America/Fortaleza] PHP Warning:  Attempt to read property "idCarrinho" on null in /home2/turis832/public_html/Ajax/AjaxEnviaPagamento.php on line 13
+[16-Oct-2023 02:20:41 America/Fortaleza] PHP Warning:  Attempt to read property "numeroCartao" on null in /home2/turis832/public_html/Ajax/AjaxEnviaPagamento.php on line 14
+[16-Oct-2023 02:20:41 America/Fortaleza] PHP Warning:  Attempt to read property "nomeCompleto" on null in /home2/turis832/public_html/Ajax/AjaxEnviaPagamento.php on line 15
+[16-Oct-2023 02:20:41 America/Fortaleza] PHP Warning:  Attempt to read property "anoVencimento" on null in /home2/turis832/public_html/Ajax/AjaxEnviaPagamento.php on line 16
+[16-Oct-2023 02:20:41 America/Fortaleza] PHP Warning:  Attempt to read property "codSeguranca" on null in /home2/turis832/public_html/Ajax/AjaxEnviaPagamento.php on line 17
+[16-Oct-2023 02:20:41 America/Fortaleza] PHP Warning:  Attempt to read property "numParcelas" on null in /home2/turis832/public_html/Ajax/AjaxEnviaPagamento.php on line 18
+[16-Oct-2023 02:20:41 America/Fortaleza] PHP Warning:  Attempt to read property "valorTotalViagem" on null in /home2/turis832/public_html/Ajax/AjaxEnviaPagamento.php on line 19
+[16-Oct-2023 02:20:41 America/Fortaleza] PHP Warning:  Attempt to read property "valorTotalFinal" on null in /home2/turis832/public_html/Ajax/AjaxEnviaPagamento.php on line 20
+[16-Oct-2023 02:20:41 America/Fortaleza] PHP Warning:  Attempt to read property "valorPagamento" on null in /home2/turis832/public_html/Ajax/AjaxEnviaPagamento.php on line 24
+[16-Oct-2023 02:24:25 America/Fortaleza] PHP Warning:  Attempt to read property "idCarrinho" on null in /home2/turis832/public_html/Ajax/AjaxEnviaPagamento.php on line 13
+[16-Oct-2023 02:24:25 America/Fortaleza] PHP Warning:  Attempt to read property "numeroCartao" on null in /home2/turis832/public_html/Ajax/AjaxEnviaPagamento.php on line 14
+[16-Oct-2023 02:24:25 America/Fortaleza] PHP Warning:  Attempt to read property "nomeCompleto" on null in /home2/turis832/public_html/Ajax/AjaxEnviaPagamento.php on line 15
+[16-Oct-2023 02:24:25 America/Fortaleza] PHP Warning:  Attempt to read property "anoVencimento" on null in /home2/turis832/public_html/Ajax/AjaxEnviaPagamento.php on line 16
+[16-Oct-2023 02:24:25 America/Fortaleza] PHP Warning:  Attempt to read property "codSeguranca" on null in /home2/turis832/public_html/Ajax/AjaxEnviaPagamento.php on line 17
+[16-Oct-2023 02:24:25 America/Fortaleza] PHP Warning:  Attempt to read property "numParcelas" on null in /home2/turis832/public_html/Ajax/AjaxEnviaPagamento.php on line 18
+[16-Oct-2023 02:24:25 America/Fortaleza] PHP Warning:  Attempt to read property "valorTotalViagem" on null in /home2/turis832/public_html/Ajax/AjaxEnviaPagamento.php on line 19
+[16-Oct-2023 02:24:25 America/Fortaleza] PHP Warning:  Attempt to read property "valorFinal" on null in /home2/turis832/public_html/Ajax/AjaxEnviaPagamento.php on line 20
+[16-Oct-2023 02:24:25 America/Fortaleza] PHP Warning:  Attempt to read property "valorPagamento" on null in /home2/turis832/public_html/Ajax/AjaxEnviaPagamento.php on line 24
+[16-Oct-2023 02:26:54 America/Fortaleza] PHP Warning:  Attempt to read property "idCarrinho" on null in /home2/turis832/public_html/Ajax/AjaxEnviaPagamento.php on line 13
+[16-Oct-2023 02:26:54 America/Fortaleza] PHP Warning:  Attempt to read property "numeroCartao" on null in /home2/turis832/public_html/Ajax/AjaxEnviaPagamento.php on line 14
+[16-Oct-2023 02:26:54 America/Fortaleza] PHP Warning:  Attempt to read property "nomeCompleto" on null in /home2/turis832/public_html/Ajax/AjaxEnviaPagamento.php on line 15
+[16-Oct-2023 02:26:54 America/Fortaleza] PHP Warning:  Attempt to read property "anoVencimento" on null in /home2/turis832/public_html/Ajax/AjaxEnviaPagamento.php on line 16
+[16-Oct-2023 02:26:54 America/Fortaleza] PHP Warning:  Attempt to read property "codSeguranca" on null in /home2/turis832/public_html/Ajax/AjaxEnviaPagamento.php on line 17
+[16-Oct-2023 02:26:54 America/Fortaleza] PHP Warning:  Attempt to read property "numParcelas" on null in /home2/turis832/public_html/Ajax/AjaxEnviaPagamento.php on line 18
+[16-Oct-2023 02:26:54 America/Fortaleza] PHP Warning:  Attempt to read property "valorTotalViagem" on null in /home2/turis832/public_html/Ajax/AjaxEnviaPagamento.php on line 19
+[16-Oct-2023 02:26:54 America/Fortaleza] PHP Warning:  Attempt to read property "valorFinal" on null in /home2/turis832/public_html/Ajax/AjaxEnviaPagamento.php on line 20
+[16-Oct-2023 02:26:54 America/Fortaleza] PHP Warning:  Attempt to read property "valorPagamento" on null in /home2/turis832/public_html/Ajax/AjaxEnviaPagamento.php on line 24
+[16-Oct-2023 02:28:28 America/Fortaleza] PHP Warning:  Undefined array key "valorPagamento" in /home2/turis832/public_html/Ajax/AjaxPagamento.php on line 123
+[16-Oct-2023 02:28:28 America/Fortaleza] PHP Warning:  Undefined array key "idCarrinho" in /home2/turis832/public_html/Ajax/AjaxPagamento.php on line 124
+[16-Oct-2023 02:34:43 America/Fortaleza] PHP Warning:  Undefined array key "dados" in /home2/turis832/public_html/Ajax/AjaxEnviaPagamento.php on line 10
+[16-Oct-2023 02:34:43 America/Fortaleza] PHP Warning:  Trying to access array offset on value of type null in /home2/turis832/public_html/Ajax/AjaxEnviaPagamento.php on line 12
+[16-Oct-2023 02:34:43 America/Fortaleza] PHP Warning:  Trying to access array offset on value of type null in /home2/turis832/public_html/Ajax/AjaxEnviaPagamento.php on line 13
+[16-Oct-2023 02:34:43 America/Fortaleza] PHP Warning:  Trying to access array offset on value of type null in /home2/turis832/public_html/Ajax/AjaxEnviaPagamento.php on line 14
+[16-Oct-2023 02:34:43 America/Fortaleza] PHP Warning:  Trying to access array offset on value of type null in /home2/turis832/public_html/Ajax/AjaxEnviaPagamento.php on line 15
+[16-Oct-2023 02:34:43 America/Fortaleza] PHP Warning:  Trying to access array offset on value of type null in /home2/turis832/public_html/Ajax/AjaxEnviaPagamento.php on line 16
+[16-Oct-2023 02:34:43 America/Fortaleza] PHP Warning:  Trying to access array offset on value of type null in /home2/turis832/public_html/Ajax/AjaxEnviaPagamento.php on line 17
+[16-Oct-2023 02:34:43 America/Fortaleza] PHP Warning:  Trying to access array offset on value of type null in /home2/turis832/public_html/Ajax/AjaxEnviaPagamento.php on line 18
+[16-Oct-2023 02:34:43 America/Fortaleza] PHP Warning:  Trying to access array offset on value of type null in /home2/turis832/public_html/Ajax/AjaxEnviaPagamento.php on line 19
+[16-Oct-2023 02:34:43 America/Fortaleza] PHP Warning:  Trying to access array offset on value of type null in /home2/turis832/public_html/Ajax/AjaxEnviaPagamento.php on line 20
+[16-Oct-2023 02:42:25 America/Fortaleza] PHP Warning:  Undefined variable $conn in /home2/turis832/public_html/Ajax/AjaxEnviaPagamento.php on line 12
+[16-Oct-2023 02:42:25 America/Fortaleza] PHP Fatal error:  Uncaught TypeError: mysqli_real_escape_string(): Argument #1 ($mysql) must be of type mysqli, null given in /home2/turis832/public_html/Ajax/AjaxEnviaPagamento.php:12
+Stack trace:
+#0 /home2/turis832/public_html/Ajax/AjaxEnviaPagamento.php(12): mysqli_real_escape_string(NULL, '8')
+#1 {main}
+  thrown in /home2/turis832/public_html/Ajax/AjaxEnviaPagamento.php on line 12
+[16-Oct-2023 02:43:08 America/Fortaleza] PHP Warning:  Undefined variable $conn in /home2/turis832/public_html/Ajax/AjaxEnviaPagamento.php on line 12
+[16-Oct-2023 02:43:08 America/Fortaleza] PHP Fatal error:  Uncaught TypeError: mysqli_real_escape_string(): Argument #1 ($mysql) must be of type mysqli, null given in /home2/turis832/public_html/Ajax/AjaxEnviaPagamento.php:12
+Stack trace:
+#0 /home2/turis832/public_html/Ajax/AjaxEnviaPagamento.php(12): mysqli_real_escape_string(NULL, '8')
+#1 {main}
+  thrown in /home2/turis832/public_html/Ajax/AjaxEnviaPagamento.php on line 12
+[16-Oct-2023 07:16:03 America/Fortaleza] PHP Warning:  Undefined variable $conn in /home2/turis832/public_html/Ajax/AjaxEnviaPagamento.php on line 12
+[16-Oct-2023 07:16:03 America/Fortaleza] PHP Fatal error:  Uncaught TypeError: mysqli_real_escape_string(): Argument #1 ($mysql) must be of type mysqli, null given in /home2/turis832/public_html/Ajax/AjaxEnviaPagamento.php:12
+Stack trace:
+#0 /home2/turis832/public_html/Ajax/AjaxEnviaPagamento.php(12): mysqli_real_escape_string(NULL, '9')
+#1 {main}
+  thrown in /home2/turis832/public_html/Ajax/AjaxEnviaPagamento.php on line 12
+[16-Oct-2023 07:17:12 America/Fortaleza] PHP Warning:  Undefined array key "id_user" in /home2/turis832/public_html/Ajax/AjaxPagamento.php on line 125
+[16-Oct-2023 07:17:12 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home2/turis832/public_html/Ajax/AjaxPagamento.php:131
+Stack trace:
+#0 /home2/turis832/public_html/Ajax/AjaxPagamento.php(131): mysqli_query(Object(mysqli), 'SELECT DISTINCT...')
+#1 {main}
+  thrown in /home2/turis832/public_html/Ajax/AjaxPagamento.php on line 131
+[16-Oct-2023 07:27:03 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'cod_seguranca' in 'field list' in /home2/turis832/public_html/Ajax/AjaxEnviaPagamento.php:53
+Stack trace:
+#0 /home2/turis832/public_html/Ajax/AjaxEnviaPagamento.php(53): mysqli->query('INSERT INTO tb_...')
+#1 {main}
+  thrown in /home2/turis832/public_html/Ajax/AjaxEnviaPagamento.php on line 53
+[16-Oct-2023 07:34:39 America/Fortaleza] PHP Parse error:  syntax error, unexpected string content "", expecting "-" or identifier or variable or number in /home2/turis832/public_html/Ajax/AjaxEnviaPagamento.php on line 8
+[16-Oct-2023 07:37:31 America/Fortaleza] PHP Parse error:  syntax error, unexpected string content "", expecting "-" or identifier or variable or number in /home2/turis832/public_html/Ajax/AjaxEnviaPagamento.php on line 8
+[16-Oct-2023 07:37:40 America/Fortaleza] PHP Parse error:  syntax error, unexpected string content "", expecting "-" or identifier or variable or number in /home2/turis832/public_html/Ajax/AjaxEnviaPagamento.php on line 8
+[16-Oct-2023 07:41:11 America/Fortaleza] PHP Parse error:  syntax error, unexpected string content "", expecting "-" or identifier or variable or number in /home2/turis832/public_html/Ajax/AjaxEnviaPagamento.php on line 8
+[16-Oct-2023 07:41:31 America/Fortaleza] PHP Parse error:  syntax error, unexpected string content "", expecting "-" or identifier or variable or number in /home2/turis832/public_html/Ajax/AjaxEnviaPagamento.php on line 8
+[16-Oct-2023 07:45:27 America/Fortaleza] PHP Parse error:  syntax error, unexpected string content "", expecting "-" or identifier or variable or number in /home2/turis832/public_html/Ajax/AjaxEnviaPagamento.php on line 8
+[16-Oct-2023 07:48:00 America/Fortaleza] PHP Parse error:  syntax error, unexpected string content "", expecting "-" or identifier or variable or number in /home2/turis832/public_html/Ajax/AjaxEnviaPagamento.php on line 8
+[16-Oct-2023 07:49:51 America/Fortaleza] PHP Parse error:  syntax error, unexpected string content "", expecting "-" or identifier or variable or number in /home2/turis832/public_html/Ajax/AjaxEnviaPagamento.php on line 8

@@ -1,0 +1,138 @@
+[21-Jun-2023 11:37:23 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home2/turis832/public_html/php/crud/conecta.php:2
+Stack trace:
+#0 /home2/turis832/public_html/php/crud/conecta.php(2): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 {main}
+  thrown in /home2/turis832/public_html/php/crud/conecta.php on line 2
+[21-Jun-2023 11:37:28 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home2/turis832/public_html/php/crud/conecta.php:2
+Stack trace:
+#0 /home2/turis832/public_html/php/crud/conecta.php(2): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 {main}
+  thrown in /home2/turis832/public_html/php/crud/conecta.php on line 2
+[21-Jun-2023 11:42:37 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home2/turis832/public_html/php/crud/conecta.php:2
+Stack trace:
+#0 /home2/turis832/public_html/php/crud/conecta.php(2): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 /home2/turis832/public_html/php/crud/update.php(2): include('/home2/turis832...')
+#2 {main}
+  thrown in /home2/turis832/public_html/php/crud/conecta.php on line 2
+[23-Jun-2023 08:02:06 America/Fortaleza] PHP Warning:  Undefined variable $pdo in /home2/turis832/public_html/php/crud/read.php on line 5
+[23-Jun-2023 08:02:06 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home2/turis832/public_html/php/crud/read.php:5
+Stack trace:
+#0 {main}
+  thrown in /home2/turis832/public_html/php/crud/read.php on line 5
+[23-Jun-2023 08:02:25 America/Fortaleza] PHP Warning:  Undefined variable $pdo in /home2/turis832/public_html/php/crud/read.php on line 5
+[23-Jun-2023 08:02:25 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home2/turis832/public_html/php/crud/read.php:5
+Stack trace:
+#0 {main}
+  thrown in /home2/turis832/public_html/php/crud/read.php on line 5
+[23-Jun-2023 08:03:54 America/Fortaleza] PHP Warning:  Undefined variable $pdo in /home2/turis832/public_html/php/crud/read.php on line 5
+[23-Jun-2023 08:03:54 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home2/turis832/public_html/php/crud/read.php:5
+Stack trace:
+#0 {main}
+  thrown in /home2/turis832/public_html/php/crud/read.php on line 5
+[23-Jun-2023 08:14:13 America/Fortaleza] PHP Warning:  Undefined variable $pdo in /home2/turis832/public_html/php/crud/read.php on line 5
+[23-Jun-2023 08:14:13 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home2/turis832/public_html/php/crud/read.php:5
+Stack trace:
+#0 {main}
+  thrown in /home2/turis832/public_html/php/crud/read.php on line 5
+[23-Jun-2023 08:15:46 America/Fortaleza] PHP Warning:  Undefined variable $pdo in /home2/turis832/public_html/php/crud/create.php on line 8
+[23-Jun-2023 08:15:46 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home2/turis832/public_html/php/crud/create.php:8
+Stack trace:
+#0 {main}
+  thrown in /home2/turis832/public_html/php/crud/create.php on line 8
+[23-Jun-2023 08:15:50 America/Fortaleza] PHP Warning:  Undefined variable $pdo in /home2/turis832/public_html/php/crud/create.php on line 8
+[23-Jun-2023 08:15:50 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home2/turis832/public_html/php/crud/create.php:8
+Stack trace:
+#0 {main}
+  thrown in /home2/turis832/public_html/php/crud/create.php on line 8
+[23-Jun-2023 08:16:18 America/Fortaleza] PHP Warning:  Undefined variable $pdo in /home2/turis832/public_html/php/crud/create.php on line 8
+[23-Jun-2023 08:16:18 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home2/turis832/public_html/php/crud/create.php:8
+Stack trace:
+#0 {main}
+  thrown in /home2/turis832/public_html/php/crud/create.php on line 8
+[23-Jun-2023 08:16:31 America/Fortaleza] PHP Warning:  Undefined variable $pdo in /home2/turis832/public_html/php/crud/create.php on line 8
+[23-Jun-2023 08:16:31 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home2/turis832/public_html/php/crud/create.php:8
+Stack trace:
+#0 {main}
+  thrown in /home2/turis832/public_html/php/crud/create.php on line 8
+[23-Jun-2023 19:07:28 America/Fortaleza] PHP Warning:  Undefined variable $pdo in /home2/turis832/public_html/php/crud/read.php on line 5
+[23-Jun-2023 19:07:28 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home2/turis832/public_html/php/crud/read.php:5
+Stack trace:
+#0 {main}
+  thrown in /home2/turis832/public_html/php/crud/read.php on line 5
+[27-Jun-2023 07:26:02 America/Fortaleza] PHP Parse error:  syntax error, unexpected end of file in /home2/turis832/public_html/php/crud/conecta.php on line 17
+[27-Jun-2023 07:58:56 America/Fortaleza] PHP Warning:  Packets out of order. Expected 0 received 80. Packet size=5526600 in /home2/turis832/public_html/php/crud/conecta.php on line 8
+[27-Jun-2023 07:58:56 America/Fortaleza] PHP Warning:  mysqli::__construct(): Error while reading greeting packet. PID=243271 in /home2/turis832/public_html/php/crud/conecta.php on line 8
+[27-Jun-2023 07:58:56 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: MySQL server has gone away in /home2/turis832/public_html/php/crud/conecta.php:8
+Stack trace:
+#0 /home2/turis832/public_html/php/crud/conecta.php(8): mysqli->__construct('br886.hostgator...', 'turis832_matheu...', 'matheus0307', 'turis832_bd_tur...')
+#1 {main}
+  thrown in /home2/turis832/public_html/php/crud/conecta.php on line 8
+[27-Jun-2023 07:59:30 America/Fortaleza] PHP Warning:  Packets out of order. Expected 0 received 80. Packet size=5526600 in /home2/turis832/public_html/php/crud/conecta.php on line 8
+[27-Jun-2023 07:59:30 America/Fortaleza] PHP Warning:  mysqli::__construct(): Error while reading greeting packet. PID=243271 in /home2/turis832/public_html/php/crud/conecta.php on line 8
+[27-Jun-2023 07:59:30 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: MySQL server has gone away in /home2/turis832/public_html/php/crud/conecta.php:8
+Stack trace:
+#0 /home2/turis832/public_html/php/crud/conecta.php(8): mysqli->__construct('br886.hostgator...', 'turis832_matheu...', 'matheus0307', 'turis832_bd_tur...')
+#1 {main}
+  thrown in /home2/turis832/public_html/php/crud/conecta.php on line 8
+[27-Jun-2023 07:59:49 America/Fortaleza] PHP Warning:  Packets out of order. Expected 0 received 80. Packet size=5526600 in /home2/turis832/public_html/php/crud/conecta.php on line 8
+[27-Jun-2023 07:59:49 America/Fortaleza] PHP Warning:  mysqli::__construct(): Error while reading greeting packet. PID=250592 in /home2/turis832/public_html/php/crud/conecta.php on line 8
+[27-Jun-2023 07:59:49 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: MySQL server has gone away in /home2/turis832/public_html/php/crud/conecta.php:8
+Stack trace:
+#0 /home2/turis832/public_html/php/crud/conecta.php(8): mysqli->__construct('br886.hostgator...', 'turis832_matheu...', 'matheus0307', 'turis832_bd_tur...')
+#1 {main}
+  thrown in /home2/turis832/public_html/php/crud/conecta.php on line 8
+[27-Jun-2023 10:19:14 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'turis832_bd_turismo_aventura.clientes' doesn't exist in /home2/turis832/public_html/php/crud/conecta.php:19
+Stack trace:
+#0 /home2/turis832/public_html/php/crud/conecta.php(19): mysqli->query('SELECT * FROM c...')
+#1 {main}
+  thrown in /home2/turis832/public_html/php/crud/conecta.php on line 19
+[27-Jun-2023 10:19:46 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'turis832_bd_turismo_aventura.clientes' doesn't exist in /home2/turis832/public_html/php/crud/conecta.php:17
+Stack trace:
+#0 /home2/turis832/public_html/php/crud/conecta.php(17): mysqli->query('SELECT * FROM c...')
+#1 {main}
+  thrown in /home2/turis832/public_html/php/crud/conecta.php on line 17
+[27-Jun-2023 10:20:19 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'turis832_bd_turismo_aventura.clientes' doesn't exist in /home2/turis832/public_html/php/crud/conecta.php:17
+Stack trace:
+#0 /home2/turis832/public_html/php/crud/conecta.php(17): mysqli->query('SELECT * FROM c...')
+#1 {main}
+  thrown in /home2/turis832/public_html/php/crud/conecta.php on line 17
+[27-Jun-2023 10:20:30 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'turis832_bd_turismo_aventura.clientes' doesn't exist in /home2/turis832/public_html/php/crud/conecta.php:17
+Stack trace:
+#0 /home2/turis832/public_html/php/crud/conecta.php(17): mysqli->query('SELECT * FROM c...')
+#1 {main}
+  thrown in /home2/turis832/public_html/php/crud/conecta.php on line 17
+[27-Jun-2023 10:20:33 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'turis832_bd_turismo_aventura.clientes' doesn't exist in /home2/turis832/public_html/php/crud/conecta.php:17
+Stack trace:
+#0 /home2/turis832/public_html/php/crud/conecta.php(17): mysqli->query('SELECT * FROM c...')
+#1 {main}
+  thrown in /home2/turis832/public_html/php/crud/conecta.php on line 17
+[27-Jun-2023 10:21:28 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'turis832_bd_turismo_aventura.clientes' doesn't exist in /home2/turis832/public_html/php/crud/conecta.php:17
+Stack trace:
+#0 /home2/turis832/public_html/php/crud/conecta.php(17): mysqli->query('SELECT * FROM c...')
+#1 {main}
+  thrown in /home2/turis832/public_html/php/crud/conecta.php on line 17
+[27-Jun-2023 10:21:30 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'turis832_bd_turismo_aventura.clientes' doesn't exist in /home2/turis832/public_html/php/crud/conecta.php:17
+Stack trace:
+#0 /home2/turis832/public_html/php/crud/conecta.php(17): mysqli->query('SELECT * FROM c...')
+#1 {main}
+  thrown in /home2/turis832/public_html/php/crud/conecta.php on line 17
+[27-Jun-2023 10:22:33 America/Fortaleza] PHP Warning:  Undefined array key "id" in /home2/turis832/public_html/php/crud/conecta.php on line 22
+[27-Jun-2023 10:23:36 America/Fortaleza] PHP Warning:  Undefined array key "id" in /home2/turis832/public_html/php/crud/conecta.php on line 22
+[27-Jun-2023 10:23:36 America/Fortaleza] PHP Warning:  Undefined variable $pdo in /home2/turis832/public_html/php/crud/read.php on line 5
+[27-Jun-2023 10:23:36 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home2/turis832/public_html/php/crud/read.php:5
+Stack trace:
+#0 {main}
+  thrown in /home2/turis832/public_html/php/crud/read.php on line 5
+[27-Jun-2023 10:24:07 America/Fortaleza] PHP Warning:  Undefined array key "id" in /home2/turis832/public_html/php/crud/conecta.php on line 22
+[27-Jun-2023 10:24:07 America/Fortaleza] PHP Warning:  Undefined variable $pdo in /home2/turis832/public_html/php/crud/read.php on line 5
+[27-Jun-2023 10:24:07 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home2/turis832/public_html/php/crud/read.php:5
+Stack trace:
+#0 {main}
+  thrown in /home2/turis832/public_html/php/crud/read.php on line 5
+[27-Jun-2023 10:24:31 America/Fortaleza] PHP Warning:  Undefined array key "id" in /home2/turis832/public_html/php/crud/conecta.php on line 22
+[27-Jun-2023 10:24:31 America/Fortaleza] PHP Warning:  Undefined variable $pdo in /home2/turis832/public_html/php/crud/read.php on line 5
+[27-Jun-2023 10:24:31 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home2/turis832/public_html/php/crud/read.php:5
+Stack trace:
+#0 {main}
+  thrown in /home2/turis832/public_html/php/crud/read.php on line 5
+[27-Jun-2023 21:31:45 America/Fortaleza] PHP Warning:  Undefined array key "id" in /home2/turis832/public_html/php/crud/conecta.php on line 22

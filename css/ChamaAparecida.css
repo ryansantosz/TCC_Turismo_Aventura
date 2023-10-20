@@ -1,0 +1,323 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+    font-weight:bold
+  }
+  .nav-link{
+    color: white !important;
+  }
+  #navPrincipal {
+    background: linear-gradient(90deg, #2d89bb 0%, #148fd1 35%, #004C99 100%);
+    position: relative;
+    width: 100%;
+  } 
+  #containerPrincipal {
+    background: linear-gradient(90deg, #2d89bb 0%, #148fd1 35%, #004C99 100%);
+  }
+  #imgLogo{ 
+    width: 100%;
+    height: 100%;
+  }
+  #carouselExampleIndicators{
+    width: 100%;
+    max-height: 110%;
+    border: 3px solid #5e7ca3;
+  }
+  .d-block w-100{
+    height: 50%;
+  }
+  .carousel-item img {
+    width: 100%;
+    height: 100%;
+  }
+  .carousel-item {
+    max-height: 310px!important;
+    transition: 1s;
+  }
+  .borda-campos{
+  max-width:100%;
+  border-style: solid;
+  border: 3px solid #325ccf;
+  height: 180px;
+  padding: 18px;
+  border-top: 4px solid #325ccf;
+  border-left: 2px solid #ccc;
+  border-left: 2px solid #ccc;
+  border-right: 2px solid #ccc;
+  border-bottom: 2px solid #ccc;
+}
+b{
+  color: #1b71ea;
+}
+.checkbox-container {
+  max-width: 200px;
+}
+.checkbox-disponivel {
+  max-width: 200px;
+}
+.checkbox-selecionado {
+  max-width: 200px;
+}
+.checkbox {
+  display: none;
+}
+.checkbox-label {
+  width: 22px; /* Tamanho da label */
+  height: 22px; /* Tamanho da label */
+  background-color: #325ccf;
+  margin: 4px;
+  cursor: pointer;
+  border-radius: 18px;
+}
+.checkbox:checked + .checkbox-label {
+  background-color: #FECA30;
+}
+.checkbox-bolinha {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  cursor: pointer; /* Cursor de mão ao passar o mouse sobre a bolinha */
+}
+#disponivel{
+  width: 20px; /* Tamanho da label */
+  height: 20px; /* Tamanho da label */
+  background-color: #325ccf;
+  cursor: pointer;
+  border-radius: 10px;
+}
+#selecionado{
+  width: 20px; /* Tamanho da label */
+  height: 20px; /* Tamanho da label */
+  background-color: #FECA30;
+  cursor: pointer;
+  border-radius: 10px;
+}
+span {
+  font-weight: bold; /* Texto em negrito */
+  font-size: 16px; /* Tamanho da fonte em 16 pixels */ 
+}
+hr {
+  height: 2px; /* Altura desejada */
+  border: none;
+  border-top: 2px solid #000; /* Cor e estilo da linha */
+}
+.form-control {
+/* Estilize a altura, a largura, as cores, as bordas etc. conforme suas necessidades */
+height: 40px;
+width: 100%;
+border-radius: 5px;
+font-size: 18px;
+color: #333;
+}
+/* Estilo básico para o rótulo do checkbox */
+.custom-checkbox {
+display: inline-flex;
+align-items: center;
+cursor: pointer;
+}
+/* Estilo para o input do checkbox */
+.custom-checkbox-input {
+position: absolute;
+opacity: 0;
+cursor: pointer;
+}
+/* Estilo para o ícone de "X" */
+.custom-checkbox-icon {
+display: inline-block;
+width: 22px;
+height: 20px;
+border: 2px solid #ccc;
+border-radius: 10px;
+background-color: #f8f9fa;
+position: relative;
+}
+/* Estilo para o "X" no ícone */
+.custom-checkbox-icon::after {
+content: 'X';
+display: block;
+position: absolute;
+top: 50%;
+left: 48%;
+transform: translate(-50%, -50%);
+font-size: 16px;
+color: #333;
+}
+/* Estilo para o rótulo do checkbox */
+#iconagenda{
+color:#007bff;
+height: 20px;
+width: 20px;
+cursor: pointer;
+}
+#iconticket{
+color:#007bff;
+height: 20px;
+width: 20px;
+cursor: pointer;
+}
+#EscolhaIngresso{
+color:#007bff;
+}
+#iconclock{
+color:#084d6e;
+}
+#iconblock{
+color:#084d6e;  
+}
+#numIngressoKid{
+pointer-events: none;
+text-align: center;
+}
+#numIngressoAdult{
+pointer-events: none;
+background-color: transparent;
+outline: none;
+pointer-events: none;
+text-align: center;
+}
+#numIngressoSr{
+pointer-events: none;
+background-color: transparent;
+outline: none;
+pointer-events: none;
+text-align: center;
+}
+#addIngressoKid{
+cursor: pointer; /* Altera o cursor do mouse para uma mãozinha para indicar que é clicável */
+}
+#addIngressoAdult{
+cursor: pointer; /* Altera o cursor do mouse para uma mãozinha para indicar que é clicável */
+}
+#addIngressoSr{
+cursor: pointer; /* Altera o cursor do mouse para uma mãozinha para indicar que é clicável */
+}
+#ExcluiIngressoKid{
+cursor: pointer; /* Altera o cursor do mouse para uma mãozinha para indicar que é clicável */
+}
+#ExcluiIngressoAdult{
+cursor: pointer; /* Altera o cursor do mouse para uma mãozinha para indicar que é clicável */
+}
+#ExcluiIngressoSr{
+cursor: pointer; /* Altera o cursor do mouse para uma mãozinha para indicar que é clicável */
+}
+#exampleModal{
+padding-top: 7%;
+}
+#comprar{
+background-color:#325ccf;
+}
+.dropdown-submenu {
+      position: relative;
+      }
+      .dropdown-submenu>.dropdown-menu {
+      top: 0;
+      left: 100%;
+      margin-top: -6px;
+      margin-left: -1px;
+      -webkit-border-radius: 0 6px 6px 6px;
+      -moz-border-radius: 0 6px 6px;
+      border-radius: 0 6px 6px 6px;
+      color: #148fd1;
+      }
+      .dropdown-submenu:hover>.dropdown-menu {
+      display: block;
+      color: #148fd1;
+
+      }
+      .dropdown-submenu>a:after {
+      display: block;
+      content: " ";
+      float: right;
+      padding-right: 18px;
+      width: 0;
+      height: 0;
+      border-color: transparent;
+      border-style: solid;
+      border-width: 5px 0 5px 5px;
+      border-left-color: #fff;
+      margin-top: 5px;
+      margin-right: -10px;
+      color: #148fd1;
+
+      }
+      .dropdown-submenu:hover>a:after {
+      border-left-color: #fff;
+      color: #148fd1;
+
+      }
+      .dropdown-submenu.pull-left {
+      float: none;
+      color: #148fd1;
+
+      }
+      .dropdown-submenu.pull-left>.dropdown-menu {
+      left: -100%;
+      margin-left: 10px;
+      -webkit-border-radius: 6px 0 6px 6px;
+      -moz-border-radius: 6px 0 6px 6px;
+      border-radius: 6px 0 6px 6px;
+      color: #148fd1;
+
+      }
+
+      .CarrinhoSpan {
+        background: transparent;
+        position: relative;
+        padding: 5px 15px;
+        align-items: center;
+        font-size: 17px;
+        font-weight: 600;
+        text-decoration: none;
+        cursor: pointer;
+        border: 2px solid rgb(40, 144, 241);
+        border-radius: 25px;
+        outline: none;
+        overflow: hidden;
+        color: rgb(40, 144, 241);
+        transition: background-color 0.3s, color 0.3s, border 0.3s;
+        text-align: center;
+      }
+    
+      .CarrinhoSpan span {
+        margin: 10px;
+      }
+    
+      .CarrinhoSpan::before {
+        position: absolute;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        margin: auto;
+        content: "";
+        display: block;
+        width: 20em;
+        height: 20em;
+        text-align: center;
+        transition: box-shadow 0.5s ease-out;
+        z-index: -1;
+        color: #1b71ea;
+        background-color: #fff;
+        /* Adicionando um fundo branco */
+      }
+    
+      .CarrinhoSpan:hover {
+        background-color: #1b71ea;
+        /* Fundo azul */
+        color: #fff;
+        /* Texto branco */
+        border: 2px solid #1b71ea;
+        /* Borda azul */
+      }
+    
+      .CarrinhoSpan:hover span,
+      .CarrinhoSpan:hover i {
+        color: #fff;
+        /* Ícone e texto brancos */
+      }
+    
+      .CarrinhoSpan:hover::before {
+        box-shadow: inset 0 0 0 10em rgb(40, 144, 241);
+      }

@@ -1,0 +1,307 @@
+body {
+    max-width: 100%;
+    overflow-x: hidden;
+}
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+    font-weight:bold
+  }
+.dropdown-submenu {
+    position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+    top: 0;
+    left: 100%;
+    margin-top: -6px;
+    margin-left: -1px;
+    -webkit-border-radius: 0 6px 6px 6px;
+    -moz-border-radius: 0 6px 6px;
+    border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+    display: block;
+}
+.dropdown-submenu>a:after {
+    display: block;
+    content: " ";
+    float: right;
+    padding-right: 18px;
+    width: 0;
+    height: 0;
+    border-color: transparent;
+    border-style: solid;
+    border-width: 5px 0 5px 5px;
+    border-left-color: #fff;
+    margin-top: 5px;
+    margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+    border-left-color: #fff;
+}
+.dropdown-submenu.pull-left {
+    float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+    left: -100%;
+    margin-left: 10px;
+    -webkit-border-radius: 6px 0 6px 6px;
+    -moz-border-radius: 6px 0 6px 6px;
+    border-radius: 6px 0 6px 6px;
+}
+.nav-link{
+    color: white !important;
+}
+#navPrincipal {
+    background: linear-gradient(90deg, #2d89bb 0%, #148fd1 35%, #004C99 100%);
+    position: relative;
+    width: 100%;
+}
+#containerPrincipal {
+    background: linear-gradient(90deg, #2d89bb 0%, #148fd1 35%, #004C99 100%);
+}
+
+.container{
+    overflow: hidden;
+    padding-top: 5%;
+    max-width: 100%;
+    max-height: 100%;
+    background-image: linear-gradient(to bottom, #148fd1,#004C99);
+}
+
+#TelaInicialParque{
+    width: 100%;
+    height: 100%;
+}
+img {
+    max-height: 95%;
+    max-width: 100%;
+}
+.ImgInicial img {
+    height: 100%;  
+    width: 100%;
+}
+#HrCard1 {
+    border: none;
+    border-top: 2px solid #000000;
+}
+.card {
+    padding:5%;
+    box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
+    transition: 1.0s;
+}     
+.card:hover {
+    transform: translateY(-20px);
+}
+.card::before {
+    content: '';
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-radius: 1.2em;
+}
+.card::after {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    filter: blur(30px);
+}
+.card img{
+    max-width: 100%;
+    max-height: 100%;
+}
+.imagem-container img {
+    height: 100%;
+    width: 100%;
+    border-radius: 100%;
+}
+.container-footer{
+    max-width: 1170px;
+    margin: auto;
+}
+.footer-col{
+    width:25%;
+    padding: 0 15px;
+}
+.footer-col h2{
+    font-size: 18px;
+    color: var(--branco);
+    text-transform: capitalize;
+    margin-bottom: 30px;
+    font-weight: 800;
+    position: relative;
+}
+.footer-col h2::before{
+    content: '';
+    position: absolute;
+    left: 0;
+    bottom:-10px;
+    background-color: var(--cinzaescuro2); 
+    height:2px ;
+    box-sizing: border-box;
+    width: 50px;
+}
+.footer-col ul li:not(last-cild){
+    margin-bottom:10px; 
+}
+.footer-col ul li a{
+    font-size: 16px;
+    text-transform: capitalize;
+    color: var(--cinzaclaro);
+    text-decoration: none;
+    font-weight: 300;
+    display: block;
+    transition: all ease 0.3s;
+}
+.footer-col ul li a:hover{
+    color: var(--vermelho);
+    padding-left:8px
+}
+.footer-col .social-links a{
+    display: inline-block;
+    width: 30%;
+}
+.footer-col .social-links a i {
+    font-size: 150%;
+}
+.carousel-item  img {
+    width:280px;
+    height: 280px;
+}
+.carousel-item img {
+    width:280px;
+    height: 280px;
+}
+.BordaPassagem{
+    border: 2px solid #004C99;
+}
+.SpanPasseios{
+    font-size: 2.5em; 
+    color: #FFFFFF;
+}
+.SpanPasseios2{
+    font-size: 3.0em; 
+    color: #004C99;
+}
+#SectionViagem{
+    width: 100%;
+    height: 100%;
+}
+.cards {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+  }
+.cards .red {
+    background-color: #148fd1;
+}
+.cards .blue {
+    background-color: #feca30;
+}
+.cards .green {
+    background-color: #32CD32;
+}
+.cards .card {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+    height: 100px;
+    width: 250px;
+    border-radius: 10px;
+    color: white;
+    cursor: pointer;
+    transition: 400ms;
+}
+.cards .card p.tip {
+    top: 5px;
+    color: #004C99;
+    font-size: 20px;
+    font-weight: 700;
+}
+.cards .card p.second-text {
+    font-size: 15px;
+}
+.cards .card:hover {
+    transform: scale(1.1, 1.1);
+}
+.cards:hover > .card:not(:hover) {
+    transform: scale(0.9, 0.9);
+}
+.card-viagem {
+    top: 3vh;
+    position: relative;
+    width: 95%;
+    max-width: 600px;
+    height: 300px; 
+    border-radius: 5%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+    transition: all 0.6s cubic-bezier(0.23, 1, 0.320, 1);
+  }
+
+  .card-viagem img {
+    width: 100%; 
+    height: auto; 
+    object-fit: cover; 
+    transition: all 0.6s cubic-bezier(0.23, 1, 0.320, 1);
+  }
+
+  .card-viagem:hover {
+    transform: rotate(-5deg) scale(1.1);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+  }
+  
+  .card__content {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%) rotate(-45deg);
+    width: 100%; 
+    max-width: 100%;
+    height: 100%;
+    max-height: 100%;
+    padding: 20px;
+    box-sizing: border-box;
+    background-color: #fff;
+    opacity: 0;
+    transition: all 0.6s cubic-bezier(0.23, 1, 0.320, 1);
+  }
+
+.card-viagem:hover .card__content {
+    transform: translate(-50%, -50%) rotate(0deg);
+    opacity: 1;
+}
+.card__title {
+    font-size: 2rem;
+    color: #333;
+    font-weight: 700;
+}
+.card__description {
+    font-size: 1rem;
+    color: #777;
+    line-height: 1.4;
+}
+.hidden-card {
+    position: absolute;
+    right: -100%;
+    transition: right 0.6s ease-in-out;
+}
+
+
+
+
+
+
+  

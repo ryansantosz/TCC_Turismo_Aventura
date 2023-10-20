@@ -1,0 +1,174 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+    font-weight:bold
+  }
+  .nav-link{
+    color: white !important;
+  }
+  #navPrincipal {
+    background: linear-gradient(90deg, #2d89bb 0%, #148fd1 35%, #004C99 100%);
+    position: relative;
+    width: 100%;
+  }
+  #containerPrincipal {
+    display: flex;
+    gap: 30px;
+    padding-left: 15px;
+    padding-right: 15px;
+    background: linear-gradient(90deg, #2d89bb 0%, #148fd1 35%, #004C99 100%);
+  }
+  .container{
+    overflow: hidden;
+    padding-top: 5%;
+    max-width: 100%;
+  }
+  #imgLogo{ 
+    width: 250px;
+    height: 40px;
+  }
+  .Espacamento{
+    display: flex;
+    gap: 110px;
+  }
+  .EspacamentoIcon{
+    gap: 18px
+  }
+  #CarrinhoCompra{
+    color: white;
+  }
+  .dropdown-submenu {
+    position: relative;
+  }
+  .dropdown-submenu>.dropdown-menu {
+    top: 0;
+    left: 100%;
+    margin-top: -6px;
+    margin-left: -1px;
+    -webkit-border-radius: 0 6px 6px 6px;
+    -moz-border-radius: 0 6px 6px;
+    border-radius: 0 6px 6px 6px;
+  }
+  .dropdown-submenu:hover>.dropdown-menu {
+    display: block;
+  }
+  .dropdown-submenu>a:after {
+    display: block;
+    content: " ";
+    float: right;
+    padding-right: 18px;
+    width: 0;
+    height: 0;
+    border-color: transparent;
+    border-style: solid;
+    border-width: 5px 0 5px 5px;
+    border-left-color: #fff;
+    margin-top: 5px;
+    margin-right: -10px;
+  }
+  .dropdown-submenu:hover>a:after {
+    border-left-color: #fff;
+  }
+  .dropdown-submenu.pull-left {
+    float: none;
+  }
+  .dropdown-submenu.pull-left>.dropdown-menu {
+    left: -100%;
+    margin-left: 10px;
+    -webkit-border-radius: 6px 0 6px 6px;
+    -moz-border-radius: 6px 0 6px 6px;
+    border-radius: 6px 0 6px 6px;
+  }
+  body{
+    background-color: #EEEEEE;
+  }
+  #RowPagamento{
+    padding-left:5%;
+    padding-right:5%;
+  }
+ 
+  .TipoPagamento{
+    height: 100%;
+  }
+  hr {
+    height: 1px;
+    border: none;
+    border-top: 2px solid #5A9BE6;
+  }
+  .Sessao-Resumo{
+    gap: 1vh;
+    display: flex;
+    flex-direction: column;
+    font-size: 18px;
+  }
+  .span-pagamento{
+    display: flex;
+    justify-content: end;
+  }
+  .Col-pagamento {
+    height: 18%;    
+    width: 100%;
+    display: flex;
+    align-items: center;
+    background-color: white;
+    border-top: 1px solid #bebaba;
+    border-left: 1px solid #bebaba;
+    border-right: 1px solid #bebaba;
+    border-radius: 2px;
+    gap: 5vh;
+  }
+  .Border-pix {
+    height: 200px;
+    width: 35vw;
+    display: flex;
+    align-items: center;
+  }
+  .text-pagamento{
+    justify-content: end;
+    display: flex;
+    flex-direction: column;
+  }
+  .text-campo{
+    font-size: 16px;
+  }
+  .checkbox-pagamento{
+    margin-left: 15px;
+    width: 20px;
+    height: 20px;
+    border: 2px solid #a19c9c;
+  }
+  #img-pix{
+    height: 30px;
+    width: 30px;
+  }
+  #img-boleto{
+    height: 25px;
+    width: 25px;
+  }
+  #CardSvg{
+    color: #1b71ea;
+  }
+  .AprovaImediato{
+    font-size: 13px;
+    color: #737373;
+  }
+  #btnComprar{
+    border-radius: 5px;
+    background-color: #1b71ea;
+    color: #FFFFFF;
+    width: 50%;
+  }
+  .ResumoPagamento{
+    padding-top: 2%;
+    padding-right: 3%;
+    padding-left: 3%;
+    border: 1px solid #bebaba;
+    background-color: white;
+    height: 100%;
+  }
+  
+  
+  
+  

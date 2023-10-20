@@ -1,0 +1,182 @@
+[08-Aug-2023 10:15:59 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'seu_usuario'@'localhost' (using password: YES) in /home2/turis832/public_html/administrador/ajax/ajaxModalEditarUser.php:15
+Stack trace:
+#0 /home2/turis832/public_html/administrador/ajax/ajaxModalEditarUser.php(15): mysqli->__construct('localhost', 'seu_usuario', 'sua_senha', 'seu_banco_de_da...')
+#1 {main}
+  thrown in /home2/turis832/public_html/administrador/ajax/ajaxModalEditarUser.php on line 15
+[08-Aug-2023 10:17:08 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'seu_usuario'@'localhost' (using password: YES) in /home2/turis832/public_html/administrador/ajax/ajaxModalEditarUser.php:15
+Stack trace:
+#0 /home2/turis832/public_html/administrador/ajax/ajaxModalEditarUser.php(15): mysqli->__construct('localhost', 'seu_usuario', 'sua_senha', 'seu_banco_de_da...')
+#1 {main}
+  thrown in /home2/turis832/public_html/administrador/ajax/ajaxModalEditarUser.php on line 15
+[08-Aug-2023 10:21:09 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'id' in 'where clause' in /home2/turis832/public_html/administrador/ajax/ajaxModalEditarUser.php:35
+Stack trace:
+#0 /home2/turis832/public_html/administrador/ajax/ajaxModalEditarUser.php(35): mysqli->query('SELECT nome, em...')
+#1 {main}
+  thrown in /home2/turis832/public_html/administrador/ajax/ajaxModalEditarUser.php on line 35
+[08-Aug-2023 10:23:36 America/Fortaleza] PHP Warning:  Undefined variable $url in /home2/turis832/public_html/administrador/ajax/ajaxModalEditarUser.php on line 33
+[08-Aug-2023 10:23:36 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home2/turis832/public_html/administrador/ajax/ajaxModalEditarUser.php:35
+Stack trace:
+#0 /home2/turis832/public_html/administrador/ajax/ajaxModalEditarUser.php(35): mysqli->query('SELECT nome, em...')
+#1 {main}
+  thrown in /home2/turis832/public_html/administrador/ajax/ajaxModalEditarUser.php on line 35
+[08-Aug-2023 10:58:46 America/Fortaleza] PHP Warning:  Undefined array key "id_user" in /home2/turis832/public_html/administrador/ajax/ajaxEditaUser.php on line 22
+[08-Aug-2023 10:58:46 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '@gmail.com,
+            nome  = ryan satos,
+            nu_perfil_usuario = 23' at line 2 in /home2/turis832/public_html/administrador/ajax/ajaxEditaUser.php:31
+Stack trace:
+#0 /home2/turis832/public_html/administrador/ajax/ajaxEditaUser.php(31): mysqli->prepare('UPDATE usuarios...')
+#1 {main}
+  thrown in /home2/turis832/public_html/administrador/ajax/ajaxEditaUser.php on line 31
+[08-Aug-2023 11:00:49 America/Fortaleza] PHP Warning:  Undefined array key "tipo" in /home2/turis832/public_html/administrador/ajax/ajaxEditaUser.php on line 19
+[08-Aug-2023 11:00:49 America/Fortaleza] PHP Warning:  Undefined array key "email" in /home2/turis832/public_html/administrador/ajax/ajaxEditaUser.php on line 20
+[08-Aug-2023 11:00:49 America/Fortaleza] PHP Warning:  Undefined array key "nome" in /home2/turis832/public_html/administrador/ajax/ajaxEditaUser.php on line 21
+[08-Aug-2023 11:00:49 America/Fortaleza] PHP Warning:  Undefined array key "id_user" in /home2/turis832/public_html/administrador/ajax/ajaxEditaUser.php on line 22
+[08-Aug-2023 11:00:49 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '
+            nome  = ,
+            nu_perfil_usuario = 
+        WHERE id_user' at line 2 in /home2/turis832/public_html/administrador/ajax/ajaxEditaUser.php:31
+Stack trace:
+#0 /home2/turis832/public_html/administrador/ajax/ajaxEditaUser.php(31): mysqli->prepare('UPDATE usuarios...')
+#1 {main}
+  thrown in /home2/turis832/public_html/administrador/ajax/ajaxEditaUser.php on line 31
+[16-Aug-2023 08:46:23 America/Fortaleza] PHP Warning:  Undefined array key "id_user" in /home2/turis832/public_html/administrador/ajax/ajaxEditaUser.php on line 22
+[16-Aug-2023 08:46:23 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '@gmail.com,
+            nome  = ryan satos,
+            nu_perfil_usuario = 23' at line 2 in /home2/turis832/public_html/administrador/ajax/ajaxEditaUser.php:31
+Stack trace:
+#0 /home2/turis832/public_html/administrador/ajax/ajaxEditaUser.php(31): mysqli->prepare('UPDATE usuarios...')
+#1 {main}
+  thrown in /home2/turis832/public_html/administrador/ajax/ajaxEditaUser.php on line 31
+[16-Aug-2023 08:46:30 America/Fortaleza] PHP Warning:  Undefined array key "tipo" in /home2/turis832/public_html/administrador/ajax/ajaxEditaUser.php on line 19
+[16-Aug-2023 08:46:30 America/Fortaleza] PHP Warning:  Undefined array key "email" in /home2/turis832/public_html/administrador/ajax/ajaxEditaUser.php on line 20
+[16-Aug-2023 08:46:30 America/Fortaleza] PHP Warning:  Undefined array key "nome" in /home2/turis832/public_html/administrador/ajax/ajaxEditaUser.php on line 21
+[16-Aug-2023 08:46:30 America/Fortaleza] PHP Warning:  Undefined array key "id_user" in /home2/turis832/public_html/administrador/ajax/ajaxEditaUser.php on line 22
+[16-Aug-2023 08:46:30 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '
+            nome  = ,
+            nu_perfil_usuario = 
+        WHERE id_user' at line 2 in /home2/turis832/public_html/administrador/ajax/ajaxEditaUser.php:31
+Stack trace:
+#0 /home2/turis832/public_html/administrador/ajax/ajaxEditaUser.php(31): mysqli->prepare('UPDATE usuarios...')
+#1 {main}
+  thrown in /home2/turis832/public_html/administrador/ajax/ajaxEditaUser.php on line 31
+[16-Aug-2023 08:50:26 America/Fortaleza] PHP Warning:  Undefined array key "id_user" in /home2/turis832/public_html/administrador/ajax/ajaxEditaUser.php on line 22
+[16-Aug-2023 08:50:26 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '@gmail.com,
+            nome  = ryan satos,
+            nu_perfil_usuario = 10' at line 2 in /home2/turis832/public_html/administrador/ajax/ajaxEditaUser.php:31
+Stack trace:
+#0 /home2/turis832/public_html/administrador/ajax/ajaxEditaUser.php(31): mysqli->prepare('UPDATE usuarios...')
+#1 {main}
+  thrown in /home2/turis832/public_html/administrador/ajax/ajaxEditaUser.php on line 31
+[16-Aug-2023 08:50:28 America/Fortaleza] PHP Warning:  Undefined array key "tipo" in /home2/turis832/public_html/administrador/ajax/ajaxEditaUser.php on line 19
+[16-Aug-2023 08:50:28 America/Fortaleza] PHP Warning:  Undefined array key "email" in /home2/turis832/public_html/administrador/ajax/ajaxEditaUser.php on line 20
+[16-Aug-2023 08:50:28 America/Fortaleza] PHP Warning:  Undefined array key "nome" in /home2/turis832/public_html/administrador/ajax/ajaxEditaUser.php on line 21
+[16-Aug-2023 08:50:28 America/Fortaleza] PHP Warning:  Undefined array key "id_user" in /home2/turis832/public_html/administrador/ajax/ajaxEditaUser.php on line 22
+[16-Aug-2023 08:50:28 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '
+            nome  = ,
+            nu_perfil_usuario = 
+        WHERE id_user' at line 2 in /home2/turis832/public_html/administrador/ajax/ajaxEditaUser.php:31
+Stack trace:
+#0 /home2/turis832/public_html/administrador/ajax/ajaxEditaUser.php(31): mysqli->prepare('UPDATE usuarios...')
+#1 {main}
+  thrown in /home2/turis832/public_html/administrador/ajax/ajaxEditaUser.php on line 31
+[16-Aug-2023 09:22:49 America/Fortaleza] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home2/turis832/public_html/administrador/ajax/ajaxDeletaUser.php:34
+Stack trace:
+#0 /home2/turis832/public_html/administrador/ajax/ajaxDeletaUser.php(34): mysqli_stmt->bind_param('ssii', '10')
+#1 {main}
+  thrown in /home2/turis832/public_html/administrador/ajax/ajaxDeletaUser.php on line 34
+[16-Aug-2023 09:22:56 America/Fortaleza] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home2/turis832/public_html/administrador/ajax/ajaxDeletaUser.php:34
+Stack trace:
+#0 /home2/turis832/public_html/administrador/ajax/ajaxDeletaUser.php(34): mysqli_stmt->bind_param('ssii', '10')
+#1 {main}
+  thrown in /home2/turis832/public_html/administrador/ajax/ajaxDeletaUser.php on line 34
+[02-Oct-2023 10:51:35 America/Fortaleza] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home2/turis832/public_html/administrador/ajax/ajaxAtualizaPerfil.php on line 6
+[02-Oct-2023 10:51:35 America/Fortaleza] PHP Warning:  Undefined global variable $_SESSION in /home2/turis832/public_html/administrador/ajax/ajaxAtualizaPerfil.php on line 46
+[02-Oct-2023 10:51:35 America/Fortaleza] PHP Warning:  Trying to access array offset on value of type null in /home2/turis832/public_html/administrador/ajax/ajaxAtualizaPerfil.php on line 46
+[02-Oct-2023 10:51:35 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'turis832_bd_turismo_aventura.users' doesn't exist in /home2/turis832/public_html/administrador/ajax/ajaxAtualizaPerfil.php:71
+Stack trace:
+#0 /home2/turis832/public_html/administrador/ajax/ajaxAtualizaPerfil.php(71): mysqli_query(Object(mysqli), 'UPDATE users se...')
+#1 {main}
+  thrown in /home2/turis832/public_html/administrador/ajax/ajaxAtualizaPerfil.php on line 71
+[02-Oct-2023 10:53:02 America/Fortaleza] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home2/turis832/public_html/administrador/ajax/ajaxAtualizaPerfil.php on line 6
+[02-Oct-2023 10:53:02 America/Fortaleza] PHP Warning:  Undefined global variable $_SESSION in /home2/turis832/public_html/administrador/ajax/ajaxAtualizaPerfil.php on line 46
+[02-Oct-2023 10:53:02 America/Fortaleza] PHP Warning:  Trying to access array offset on value of type null in /home2/turis832/public_html/administrador/ajax/ajaxAtualizaPerfil.php on line 46
+[02-Oct-2023 10:53:02 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'turis832_bd_turismo_aventura.users' doesn't exist in /home2/turis832/public_html/administrador/ajax/ajaxAtualizaPerfil.php:71
+Stack trace:
+#0 /home2/turis832/public_html/administrador/ajax/ajaxAtualizaPerfil.php(71): mysqli_query(Object(mysqli), 'UPDATE users se...')
+#1 {main}
+  thrown in /home2/turis832/public_html/administrador/ajax/ajaxAtualizaPerfil.php on line 71
+[02-Oct-2023 10:54:46 America/Fortaleza] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home2/turis832/public_html/administrador/ajax/ajaxAtualizaPerfil.php on line 5
+[02-Oct-2023 10:54:46 America/Fortaleza] PHP Warning:  Undefined variable $idUpdatter in /home2/turis832/public_html/administrador/ajax/ajaxAtualizaPerfil.php on line 61
+[02-Oct-2023 10:54:46 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'updatter' in 'field list' in /home2/turis832/public_html/administrador/ajax/ajaxAtualizaPerfil.php:71
+Stack trace:
+#0 /home2/turis832/public_html/administrador/ajax/ajaxAtualizaPerfil.php(71): mysqli_query(Object(mysqli), 'UPDATE usuarios...')
+#1 {main}
+  thrown in /home2/turis832/public_html/administrador/ajax/ajaxAtualizaPerfil.php on line 71
+[02-Oct-2023 10:56:47 America/Fortaleza] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home2/turis832/public_html/administrador/ajax/ajaxAtualizaPerfil.php on line 3
+[02-Oct-2023 10:56:47 America/Fortaleza] PHP Warning:  Undefined variable $idUpdatter in /home2/turis832/public_html/administrador/ajax/ajaxAtualizaPerfil.php on line 62
+[02-Oct-2023 10:56:47 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'e_mail' in 'field list' in /home2/turis832/public_html/administrador/ajax/ajaxAtualizaPerfil.php:72
+Stack trace:
+#0 /home2/turis832/public_html/administrador/ajax/ajaxAtualizaPerfil.php(72): mysqli_query(Object(mysqli), 'UPDATE usuarios...')
+#1 {main}
+  thrown in /home2/turis832/public_html/administrador/ajax/ajaxAtualizaPerfil.php on line 72
+[02-Oct-2023 10:59:47 America/Fortaleza] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home2/turis832/public_html/administrador/ajax/ajaxAtualizaPerfil.php on line 3
+[02-Oct-2023 10:59:47 America/Fortaleza] PHP Warning:  Undefined global variable $_SESSION in /home2/turis832/public_html/administrador/ajax/ajaxAtualizaPerfil.php on line 51
+[02-Oct-2023 10:59:47 America/Fortaleza] PHP Warning:  Trying to access array offset on value of type null in /home2/turis832/public_html/administrador/ajax/ajaxAtualizaPerfil.php on line 51
+[02-Oct-2023 10:59:47 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE id_user = '1'' at line 9 in /home2/turis832/public_html/administrador/ajax/ajaxAtualizaPerfil.php:71
+Stack trace:
+#0 /home2/turis832/public_html/administrador/ajax/ajaxAtualizaPerfil.php(71): mysqli_query(Object(mysqli), 'UPDATE usuarios...')
+#1 {main}
+  thrown in /home2/turis832/public_html/administrador/ajax/ajaxAtualizaPerfil.php on line 71
+[02-Oct-2023 11:03:32 America/Fortaleza] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home2/turis832/public_html/administrador/ajax/ajaxAtualizaPerfil.php on line 3
+[02-Oct-2023 11:03:32 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/turis832/public_html/administrador/ajax/ajaxAtualizaPerfil.php:1) in /home2/turis832/public_html/administrador/ajax/ajaxAtualizaPerfil.php on line 83
+[02-Oct-2023 11:04:37 America/Fortaleza] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home2/turis832/public_html/administrador/ajax/ajaxAtualizaPerfil.php on line 3
+[02-Oct-2023 11:04:57 America/Fortaleza] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home2/turis832/public_html/administrador/ajax/ajaxAtualizaPerfil.php on line 3
+[02-Oct-2023 11:05:22 America/Fortaleza] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home2/turis832/public_html/administrador/ajax/ajaxAtualizaPerfil.php on line 3
+[02-Oct-2023 11:10:10 America/Fortaleza] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home2/turis832/public_html/administrador/ajax/ajaxAtualizaPerfil.php on line 3
+[02-Oct-2023 11:11:15 America/Fortaleza] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home2/turis832/public_html/administrador/ajax/ajaxAtualizaPerfil.php on line 3
+[02-Oct-2023 11:11:44 America/Fortaleza] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home2/turis832/public_html/administrador/ajax/ajaxAtualizaPerfil.php on line 3
+[06-Oct-2023 12:02:38 America/Fortaleza] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home2/turis832/public_html/administrador/ajax/ajaxCadastraUser.php on line 3
+[06-Oct-2023 12:02:38 America/Fortaleza] PHP Warning:  Undefined array key "id_user" in /home2/turis832/public_html/administrador/ajax/ajaxCadastraUser.php on line 47
+[06-Oct-2023 12:08:20 America/Fortaleza] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home2/turis832/public_html/administrador/ajax/ajaxCadastraUser.php on line 3
+[06-Oct-2023 12:15:08 America/Fortaleza] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home2/turis832/public_html/administrador/ajax/ajaxCadastraUser.php on line 3
+[06-Oct-2023 12:15:08 America/Fortaleza] PHP Warning:  Undefined variable $id_userUp in /home2/turis832/public_html/administrador/ajax/ajaxCadastraUser.php on line 73
+[06-Oct-2023 12:15:08 America/Fortaleza] PHP Warning:  Undefined variable $(11) 94923-4671 in /home2/turis832/public_html/administrador/ajax/ajaxCadastraUser.php on line 79
+[06-Oct-2023 12:15:08 America/Fortaleza] PHP Warning:  Undefined variable $today in /home2/turis832/public_html/administrador/ajax/ajaxCadastraUser.php on line 80
+[06-Oct-2023 12:15:08 America/Fortaleza] PHP Warning:  Undefined variable $today in /home2/turis832/public_html/administrador/ajax/ajaxCadastraUser.php on line 81
+[06-Oct-2023 12:15:08 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Column count doesn't match value count at row 1 in /home2/turis832/public_html/administrador/ajax/ajaxCadastraUser.php:84
+Stack trace:
+#0 /home2/turis832/public_html/administrador/ajax/ajaxCadastraUser.php(84): mysqli_query(Object(mysqli), 'INSERT usuarios...')
+#1 {main}
+  thrown in /home2/turis832/public_html/administrador/ajax/ajaxCadastraUser.php on line 84
+[06-Oct-2023 12:16:43 America/Fortaleza] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home2/turis832/public_html/administrador/ajax/ajaxCadastraUser.php on line 3
+[06-Oct-2023 12:16:43 America/Fortaleza] PHP Warning:  Undefined variable $id_userUp in /home2/turis832/public_html/administrador/ajax/ajaxCadastraUser.php on line 73
+[06-Oct-2023 12:16:43 America/Fortaleza] PHP Warning:  Undefined variable $(11) 94923-4671 in /home2/turis832/public_html/administrador/ajax/ajaxCadastraUser.php on line 79
+[06-Oct-2023 12:16:43 America/Fortaleza] PHP Warning:  Undefined variable $today in /home2/turis832/public_html/administrador/ajax/ajaxCadastraUser.php on line 80
+[06-Oct-2023 12:16:43 America/Fortaleza] PHP Warning:  Undefined variable $today in /home2/turis832/public_html/administrador/ajax/ajaxCadastraUser.php on line 81
+[06-Oct-2023 12:16:43 America/Fortaleza] PHP Fatal error:  Uncaught mysqli_sql_exception: Column count doesn't match value count at row 1 in /home2/turis832/public_html/administrador/ajax/ajaxCadastraUser.php:84
+Stack trace:
+#0 /home2/turis832/public_html/administrador/ajax/ajaxCadastraUser.php(84): mysqli_query(Object(mysqli), 'INSERT usuarios...')
+#1 {main}
+  thrown in /home2/turis832/public_html/administrador/ajax/ajaxCadastraUser.php on line 84
+[09-Oct-2023 07:36:17 America/Fortaleza] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home2/turis832/public_html/administrador/ajax/ajaxCadastraUser.php on line 3
+[09-Oct-2023 07:36:17 America/Fortaleza] PHP Warning:  Undefined variable $(11) 94923-4671 in /home2/turis832/public_html/administrador/ajax/ajaxCadastraUser.php on line 81
+[09-Oct-2023 07:43:28 America/Fortaleza] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home2/turis832/public_html/administrador/ajax/ajaxCadastraUser.php on line 3
+[09-Oct-2023 07:44:10 America/Fortaleza] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home2/turis832/public_html/administrador/ajax/ajaxCadastraUser.php on line 3
+[11-Oct-2023 13:29:56 America/Fortaleza] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home2/turis832/public_html/administrador/ajax/ajaxAtualizaPerfil.php on line 3
+[12-Oct-2023 17:41:57 America/Fortaleza] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home2/turis832/public_html/administrador/ajax/ajaxCadastraUser.php on line 3
+[12-Oct-2023 17:56:26 America/Fortaleza] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home2/turis832/public_html/administrador/ajax/ajaxAtualizaPerfil.php on line 3
+[12-Oct-2023 17:57:50 America/Fortaleza] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home2/turis832/public_html/administrador/ajax/ajaxAtualizaPerfil.php on line 3
+[13-Oct-2023 09:24:54 America/Fortaleza] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home2/turis832/public_html/administrador/ajax/ajaxAtualizaPerfil.php on line 3
+[14-Oct-2023 18:46:12 America/Fortaleza] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home2/turis832/public_html/administrador/ajax/ajaxAtualizaPerfil.php on line 3
+[14-Oct-2023 18:48:51 America/Fortaleza] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home2/turis832/public_html/administrador/ajax/ajaxAtualizaPerfil.php on line 3
+[14-Oct-2023 18:50:07 America/Fortaleza] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home2/turis832/public_html/administrador/ajax/ajaxAtualizaPerfil.php on line 3
+[14-Oct-2023 18:52:17 America/Fortaleza] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home2/turis832/public_html/administrador/ajax/ajaxAtualizaPerfil.php on line 3
+[15-Oct-2023 19:36:16 America/Fortaleza] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home2/turis832/public_html/administrador/ajax/ajaxAtualizaPerfil.php on line 3
+[15-Oct-2023 19:39:07 America/Fortaleza] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home2/turis832/public_html/administrador/ajax/ajaxAtualizaPerfil.php on line 3
+[15-Oct-2023 19:41:27 America/Fortaleza] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home2/turis832/public_html/administrador/ajax/ajaxAtualizaPerfil.php on line 3
+[16-Oct-2023 08:13:43 America/Fortaleza] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home2/turis832/public_html/administrador/ajax/ajaxAtualizaPerfil.php on line 3
+[16-Oct-2023 08:51:59 America/Fortaleza] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home2/turis832/public_html/administrador/ajax/ajaxAtualizaPerfil.php on line 3
+[16-Oct-2023 08:52:48 America/Fortaleza] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home2/turis832/public_html/administrador/ajax/ajaxAtualizaPerfil.php on line 3
+[18-Oct-2023 08:53:15 America/Fortaleza] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home2/turis832/public_html/administrador/ajax/ajaxAtualizaPerfil.php on line 3
+[18-Oct-2023 09:01:51 America/Fortaleza] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home2/turis832/public_html/administrador/ajax/ajaxAtualizaPerfil.php on line 3
+[20-Oct-2023 11:25:16 America/Fortaleza] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home2/turis832/public_html/administrador/ajax/ajaxAtualizaPerfil.php on line 3
