@@ -810,7 +810,7 @@
       $id_user = isset($_SESSION['id_user']) ? $_SESSION['id_user'] : null;
       ?>
 
-      // Atribua o valor do PHP a uma variável JavaScript.
+      // Atribua o valor do PHP a uma variável JavaScript
       var session = "<?php echo $id_user; ?>";
 
       if (session === '') {
@@ -820,13 +820,13 @@
           showConfirmButton: true,
           allowOutsideClick: false,
           willClose: () => {
-              // Redirecione para a página de login apenas se o botão "OK" foi clicado.
+              // Redirecione para a página de login apenas se o botão "OK" foi clicado
               if (!Swal.isLoading()) {
                   window.location.href = '../login.php';
               }
           }
         });
-        return; // Pare a execução da função se o usuário não estiver logado
+        return;
       }
 
       if (buttonModal === false) {
