@@ -810,7 +810,7 @@
       $id_user = isset($_SESSION['id_user']) ? $_SESSION['id_user'] : null;
       ?>
 
-      // Atribua o valor do PHP a uma variável JavaScript
+      // Atribua o valor do PHP a uma variável JavaScript.
       var session = "<?php echo $id_user; ?>";
 
       if (session === '') {
