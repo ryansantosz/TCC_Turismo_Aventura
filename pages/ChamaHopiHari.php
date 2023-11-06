@@ -820,7 +820,7 @@
           showConfirmButton: true,
           allowOutsideClick: false,
           willClose: () => {
-              // Redirecione para a página de login apenas se o botão "OK" foi clicado
+              // Redirecione para a página de login apenas se o botão "OK" foi clicado.
               if (!Swal.isLoading()) {
                   window.location.href = '../login.php';
               }
