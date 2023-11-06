@@ -3,7 +3,7 @@ ini_set('display_errors', 1);
 ini_set('display_startup_errors', 1);
 error_reporting(E_ALL);
 
-$host = "br886.hostgator.com.br"; // Endereço do banco de dados
+$host = "br886.hostgator.com.br"; // Endereço do banco de dados.
 $username = "turis832_matheus"; // Nome de usuário do banco de dados
 $password = "matheus0307"; // Senha do banco de dados
 $database = "turis832_bd_turismo_aventura"; // Nome do banco de dados
